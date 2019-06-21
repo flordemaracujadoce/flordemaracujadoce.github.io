@@ -1,0 +1,966 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="101" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Kit Henrique Maternidade</nome>
+        <descricao>livro de presença, caneta, porta-maternidade e lembrancinhas personalizadas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit163w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="100" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Porta-Maternidade</nome>
+        <descricao>a mamãe escolheu o tema floresta personalizado para o Henrique.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit162w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="99" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>folhas digitais personalizadas. A foto do ultrassom não podia faltar!</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit161w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="98" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Livro do Henrique com capa, caneta combinando com o porta-maternidade.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit160w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="97" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Lembrancinhas do Henrique</nome>
+        <descricao>porta-recado com bebê-anjinho deitado.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit159w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="96" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Cesta para Lembrancinhas</nome>
+        <descricao>cesta com lembrancinhas personalizadas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit158w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="95" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Kit bebê branco ternura</nome>
+        <descricao>para combinar com o quarto branquinho do bebê.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit157w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="94" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Kit bebê</nome>
+        <descricao>cesta higiene com 3 potes, porta-fraldas e lixeirinha.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit156w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="93" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença maternidade</nome>
+        <descricao>livro do Gustavo com capa e folhas personalizadas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit155w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="92" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Maternidade</nome>
+        <descricao>livro de presença, caneta, porta-maternidade e cesta com as lembrancinhas tema floresta.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit154w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="91" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit bebê completo Gustavo</nome>
+        <descricao>Kit maternidade e Kit quarto do bebê personalizado.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit153w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="90" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Gustavo</nome>
+        <descricao>o branco contrastando com o xadrez da decoupage e o biscuit personalizando o kit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit152w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="89" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>folhas personalizadas em papel fotográfico. A foto do ultrassom não pode faltar!</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit151w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="88" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-maternidade</nome>
+        <descricao>detalhes especiais em biscuit para receber a pequena Manuela.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit150w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="87" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Fofolete</nome>
+        <descricao>boneca de biscuit em lilás dá um toque especial ao porta-maternidade.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit149w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="86" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-maternidade</nome>
+        <descricao>bonequinha estilo bolinha, também para receber Manuela.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit148w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="85" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bebe dormindo</nome>
+        <descricao>lembrancinha personalizada a cor e detalhes.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit147w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="84" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bebe dormindo rosa</nome>
+        <descricao>lembrancinha porta-recado personalizada.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit146w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="83" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bebe dormindo azul</nome>
+        <descricao>lembrancinha porta-recado  personalizada.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit145w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="82" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit maternidade Isabela</nome>
+        <descricao>porta-maternidade personalizado.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit144w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="81" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit maternidade Isabela</nome>
+        <descricao>porta-maternidade e lembrancinhas personalizadas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit143w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="80" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Sapatilha lilás</nome>
+        <descricao>porta-recado com a suavidade e delicadeza de uma bailarina.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit142w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="79" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrança Isabela</nome>
+        <descricao>um mimo para lembrar a chegada de uma princesa.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit141w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="78" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrança Isabela</nome>
+        <descricao>porta-recado em base acrílica, personalizada cor e detalhes.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit140w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="77" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta maternidade Eva</nome>
+        <descricao>conjunto com o livro de presença e lembrancinhas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit139w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="76" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta maternidade Eva</nome>
+        <descricao>detalhes em tons lilás e branco dando um toque suave.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit138w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Para receber</titulo>
+        <imgdestaque>Biscuit/Bebe/portamaternidadew.jpg</imgdestaque>
+        <descricao>Para dar boas vindas ao seu bebe...&lt;br&gt;&lt;br&gt;... um lindo porta maternidade para receber alguém tão importante em sua vida.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit138w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="75" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinhas Fusca</nome>
+        <descricao>Personalizadas para a chegada do Lucas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit136w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="74" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha</nome>
+        <descricao>Cartão com texto a sua escolha e impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit135w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="73" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Lucas Maternidade</nome>
+        <descricao>Livro de presença, quadro, placa, kit higiene e as lembrancinhas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit132w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Kit Completo</titulo>
+        <imgdestaque>Biscuit/Bebe/tudoparaoseubebew.jpg</imgdestaque>
+        <descricao>Não há quem não fique encantado por um lindo bebê. Por isso, a Flor de Maracujá Doce criou este kit:&lt;br&gt;&lt;br&gt;Quadro, cestinha, placa, lixeira, porta-algodão, fralda e cotonete, caderno, interruptor e lembranças.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit132w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="72" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Lucas</nome>
+        <descricao>Porta-fralda pintado de branco com detalhes em biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit131w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="71" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Lucas Maternidade</nome>
+        <descricao>A lixeirinha com os mesmos detalhes do kit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit130w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="70" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Lucas Maternidade</nome>
+        <descricao>Porta-maternidade personalizado.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit129w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="69" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Lucas</nome>
+        <descricao>Livro de presença com a caneta combinando com as lembrancinhas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit134w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="68" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Lucas Maternidade</nome>
+        <descricao>A lembrancinha maior com base acrílica feita para o Lucas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit133w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="67" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Capa personalizada em biscuit e folhas digitais.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit128w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="66" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença Maternidade</nome>
+        <descricao>Folhas digitais personalizadas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit127w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="65" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença Maternidade</nome>
+        <descricao>Folhas digitais personalizadas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit126w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="64" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Folhas digitais personalizada, a foto do ultrassom não pode faltar.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit125w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="63" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Capa personalizada com biscuit e argolas de inox.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit124w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="62" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Placa de aviso de porta</nome>
+        <descricao>Personalizada acompanha os detalhes do kit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit123w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="61" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro do Lucas</nome>
+        <descricao>Para enfeitar o quarto segue o tema do kit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit122w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="60" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Placa aviso de porta</nome>
+        <descricao>Personalizada com tema time de futebol.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit137w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="59" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Gabriela</nome>
+        <descricao>Kit higiene, lembrancinhas e livro de presença maternidade.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit118w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="58" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha</nome>
+        <descricao>Cartão com texto a sua escolha e impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit117w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="57" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Livro da Gabi com capa e folhas personalizadas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit116w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="56" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Potes higiênicos</nome>
+        <descricao>O toque das lembrancinhas no pote de cotonetes e de algodão.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit115w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="55" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Com capa e folhas personalizadas. Argolas de inox.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit114w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="54" ativo="true" destaque="true" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença da Eva em matéria do Mais Você</nome>
+        <descricao>Assista ao vídeo.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit113w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Para recordar</titulo>
+        <imgdestaque>Biscuit/Bebe/livrodevisitaw.jpg</imgdestaque>
+        <descricao>Para guardar eternamente quem visitou o seu bebê...&lt;br&gt;&lt;br&gt;... um lindo livro de visita para registrar a presença de todas as visitas.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit113w.jpg</imagem>
+      </destaque>
+      <detalhe>
+        <endereco target="true">http://bit.ly/auErpn</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="53" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit menina lilás</nome>
+        <descricao>Livro de presença, placa de aviso de porta e lembrancinha.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit112w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="52" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit menina lilás</nome>
+        <descricao>Livro de presença maternidade com capa e folhas personalizadas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit111w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="51" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha menina lilás</nome>
+        <descricao>Personalizada com a cor de cabelo, pele e vestido.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit110w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="50" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Sapatinho lilás</nome>
+        <descricao>Porta-recado personalizado em base acrílica estrela.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit109w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="49" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha</nome>
+        <descricao>Cartão com texto a sua escolha e impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit108w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Para presentear</titulo>
+        <imgdestaque>Biscuit/Bebe/lembrancinhaw.jpg</imgdestaque>
+        <descricao>Para quem visitou o seu bebê...&lt;br&gt;&lt;br&gt;... uma linda lembrancinha para agradecer a visita e marcar presença em suas vidas.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit108w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="48" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit bebê anjinho</nome>
+        <descricao>Potes para algodão e cotonetes. Lembrancinhas cores sortidas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit121w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="47" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Anjinhos</nome>
+        <descricao>Lembrancinhas porta-recado personalizadas. Cores: azul, verde e rosa.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit120w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="46" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Personalizado</nome>
+        <descricao>Cartão com texto a sua escolha e impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit119w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="45" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit higiene</nome>
+        <descricao>Cesta com pote para algodão e cotonetes com anjinha rosa.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit107w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="44" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit higiene</nome>
+        <descricao>Cesta com pote para algodão e cotonetes com anjinho azul.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit106w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="43" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinhas</nome>
+        <descricao>Personalizadas com as cores a sua escolha.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit105w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="42" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro Safari</nome>
+        <descricao>Personalizado com o nome e bichinhos para alegrar o quarto do bebê.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit103w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="41" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro Safari</nome>
+        <descricao>Macaco, girafa... é a vez do tigre marcar presença.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit102w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="40" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro Safari</nome>
+        <descricao>A zebrinha não podia ficar fora, fez pose e lá ficou.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit101w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="39" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caracol baby</nome>
+        <descricao>Quadro porta maternidade com detalhes em biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit100w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="38" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Na xícara</nome>
+        <descricao>Lembrancinha porta recado personalizada para chá de bebê.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit099w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="37" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro Letícia</nome>
+        <descricao>Porta-maternidade e lembrancinha personalizada.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit098w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="36" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro Letícia</nome>
+        <descricao>Detalhes personalizados e cores a sua escolha.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit097w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="35" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Letras</nome>
+        <descricao>Escrito em biscuit com suavidade, um toque pingo em flor e borboletinhas rosas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit096w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="34" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Potes safari</nome>
+        <descricao>Potes em mdf para cotonetes e algodão no tema safari.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit095w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="33" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Potes safari</nome>
+        <descricao>Potes em mdf para cotonetes e algodão no tema safari.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit094w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="32" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro safari</nome>
+        <descricao>A alegria do macaquinho comendo banana ao lado da bananeira.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit093w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="31" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro safari</nome>
+        <descricao>Quadro com a girafa para enfeitar o quarto do Lucas.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit092w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="30" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Tá na Hora de Dormir</nome>
+        <descricao>Placa aviso de porta, é hora do bebe descansar.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit091w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="29" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit bebê</nome>
+        <descricao>Porta-fralda, lixeirinha, cesto com lembrancinhas e livro.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit090w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="28" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença maternidade</nome>
+        <descricao>Personalizado com carros.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit089w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="27" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinhas Guilherme</nome>
+        <descricao>Cartão personalizado e impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit088w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="26" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta maternidade</nome>
+        <descricao>Fusca personalizado para a chegada do Guilherme.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit087w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="25" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta Maternidade</nome>
+        <descricao>Personalizado para a chegada de Ana Victória.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit086w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="24" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Boas-vindas para a irmã</nome>
+        <descricao>Quadro de madeira e decoração em biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit085w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Quadro</titulo>
+        <imgdestaque>Biscuit/Bebe/boasvindasw.jpg</imgdestaque>
+        <descricao>A irmãzinha chegou e é hora de visitá-la na maternidade ou mesmo em seu quarto...&lt;br&gt;&lt;br&gt;O quadro de madeira com decoração em biscuit traz os nomes dos irmãos!</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit085w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="23" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Hora de dormir</nome>
+        <descricao>Aviso de porta em madeira enfeitado com biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit084w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="22" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro de boneca</nome>
+        <descricao>Feito de madeira e decorado com biscuit. Com nome do bebê.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit083w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Decoração</titulo>
+        <imgdestaque>Biscuit/Bebe/quartodebonecaw.jpg</imgdestaque>
+        <descricao>Conjunto com dois objetos para alegrar o quarto da garotada... de todas as idades.&lt;br&gt;&lt;br&gt;Quadro e aviso para porta feitos em madeira com enfeites em biscuit personalizados.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit083w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="21" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de visitas</nome>
+        <descricao>Com capa dura e enfeite de biscuit de menino ou menina.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit082w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Para recordar</titulo>
+        <imgdestaque>Biscuit/Bebe/livrodevisitaw.jpg</imgdestaque>
+        <descricao>Para guardar eternamente quem visitou o seu bebê...&lt;br&gt;&lt;br&gt;... um lindo livro de visita para registrar a presença de todas as visitas.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit082w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="20" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit</nome>
+        <descricao>Quadro, lixeira, placa, lembranças, caderno, porta-fralda, cotonete e algodão...</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit068w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Kit Completo</titulo>
+        <imgdestaque>Biscuit/Bebe/tudoparaoseubebew.jpg</imgdestaque>
+        <descricao>Não há quem não fique encantado por um lindo bebê. Por isso, a Flor de Maracujá Doce criou este kit:&lt;br&gt;&lt;br&gt;Quadro, cestinha, placa, lixeira, porta-algodão, fralda e cotonete, caderno, interruptor e lembranças.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit068w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="19" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Limpinho</nome>
+        <descricao>Porta-algodão e porta-cotonete feitos de madeira e biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit050w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="18" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-treco</nome>
+        <descricao>Cestinho enfeitado com biscuit para guardar o que quiser.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit049w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="17" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit-limpinho</nome>
+        <descricao>Cestinha, porta-algodão e porta-cotonete feitos de madeira.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit048w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="16" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Plaquinha com nome</nome>
+        <descricao>Para pendurar na porta do quarto do bebê.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit047w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="15" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-fraldas</nome>
+        <descricao>Feito de madeira, as fraldas ficam longe de pó e poeira.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit046w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="14" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cestinho</nome>
+        <descricao>Para guardar as lembrancinhas e as coisinhas do bebê.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit045w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="13" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadrinho</nome>
+        <descricao>Que tal um quadro de madeira enfeitado com biscuit?!.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit044w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="12" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lixinho</nome>
+        <descricao>Balde de madeira enfeitado com biscuit para o quarto do bebê.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit043w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="11" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Para recordar</nome>
+        <descricao>Caderno de visita com capa revestida de biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit042w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="10" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Luz</nome>
+        <descricao>Interruptor revestido de biscuit deixa o quarto da criança mais alegre.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit041w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pipa</nome>
+        <descricao>Pote de vidro com tampa decorado com biscuit para guardar cotonete.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit034w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Nuvens</nome>
+        <descricao>Pote de vidro para algodão decorado com biscuit em forma de céu.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit033w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Kit azul</titulo>
+        <imgdestaque>Biscuit/Bebe/paraobebew.jpg</imgdestaque>
+        <descricao>Não sabe o que dar para a mamãe que acabou de ter seu filhinho? Que tal um kit especial?&lt;br&gt;&lt;br&gt;São dois potes de vidro enfeitados com biscuit para guardar algodão e cotonetes.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit033_4w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Anjinha</nome>
+        <descricao>Pote de vidro para cotonetes com decoração angelical em biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit032w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Angelical</nome>
+        <descricao>Pote de vidro para algodão com decoração em biscuit de anjinha.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit031w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Conjunto</nome>
+        <descricao>Cesta de madeira e decoração em biscuit com tema angelical.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit030w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quarto</nome>
+        <descricao>Placa de madeira com o nome da criança e objetos em biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit027w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Placa</nome>
+        <descricao>Quarto de criança ganha identificação feita de madeira e biscuit.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit026w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Algodão</nome>
+        <descricao>Pote de vidro com decoração de estrelas, pipa e rolinhos de algodão.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit004w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Algodão</titulo>
+        <imgdestaque>Biscuit/Bebe/paraosbebesw.jpg</imgdestaque>
+        <descricao>Pote de vidro recebe tampa envolvida com massa de biscuit trançada e em forma de rolinhos de algodão.&lt;br&gt;&lt;br&gt;No vidro, mais biscuit, dessa vez, em forma de estrelas e pipas.</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit004w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cotonete</nome>
+        <descricao>Pote de vidro com decoração de nuvens, estrelas e, claro, cotonetes.</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit003w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

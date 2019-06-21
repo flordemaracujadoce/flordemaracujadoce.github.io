@@ -1,0 +1,748 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="76" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Kit Debutante</nome>
+        <descricao>livro de presença e topo de bolo da Debutante Maria Clara.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit140w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="75" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Kit livro de presença</nome>
+        <descricao>livro de presença personalizado com caixa flocada em vermelho.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit139w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="74" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Livro de presença 15 anos</nome>
+        <descricao>folhas digitais personalizadas impressas em papel fotográfico.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit138w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="73" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caderno personalizado</nome>
+        <descricao>decoupage e biscuit torna um caderno diferenciado para alguém especial.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit137w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="72" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caderno Nilza</nome>
+        <descricao>sempre haverá pessoas que marcam presença em nossas vidas.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit136w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="71" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-recado</nome>
+        <descricao>Lindinha feita com biscuit e pode ser topo de bolo.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit135w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Lindinha</titulo>
+        <imgdestaque>Biscuit/Presentinho/portaretratosw.jpg</imgdestaque>
+        <descricao>Lindinha vai guardar direitinho sua foto ou o seu recado...&lt;br&gt;&lt;br&gt;... feita em biscuit sem utilização de moldes.</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit135w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="70" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-recado</nome>
+        <descricao>Magrela personalizada faz a alegria das meninas.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit134w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="69" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Passo a passo no site da Ana Maria Braga</nome>
+        <descricao>Idéia para o dia das mães.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit133w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="68" ativo="true" destaque="false" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Passo a passo no site da Ana Maria Braga</nome>
+        <descricao>Assista ao vídeo.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit132w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe>
+        <endereco target="true">http://anamariabraga.globo.com/home/canais/canais-casa.php?id_not=2171</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="67" ativo="true" destaque="false" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Passo a passo no site da Ana Maria Braga</nome>
+        <descricao>Assista ao vídeo.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit131w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe>
+        <endereco target="true">http://anamariabraga.globo.com/home/canais/canais-casa.php?id_not=2171</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="66" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de bolo</nome>
+        <descricao>Para o aniversário da Júlia e do seu pai.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit130w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="65" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Júlia</nome>
+        <descricao>Olhos azuis, cabelos avermelhados e adora seu cãozinho.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit129w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="64" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>livros de cardiologia, coração, eletro e estetoscópio.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit128w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="63" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Médico</nome>
+        <descricao>Detalhes que fazem a diferença do topo de bolo: nome do médico no jaleco.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit127w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Médico</titulo>
+        <imgdestaque>Biscuit/Presentinho/topodebolow.jpg</imgdestaque>
+        <descricao>...surpresa para o aniversariante...&lt;br&gt;&lt;br&gt;... topo personalizado para enfeitar e guardar a data.</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit127w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="62" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Miniaturas</nome>
+        <descricao>Livros de cardiologia, eletro e foto da família.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit126w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="61" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pucca</nome>
+        <descricao>Caixa Pucca flocada por dentro personalizada para biju.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit125w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="60" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pucca</nome>
+        <descricao>Caixa porta-biju personalizada na cor da bonequinha de biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit124w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="59" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Dentista</nome>
+        <descricao>Porta-recado personalizado com dentista em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit123w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="58" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Escova de dentes</nome>
+        <descricao>Personalizar para ficar bem próximo do real.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit122w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="57" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>Dentista personalizada com a escova de dentes na mão.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit121w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="56" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Dentistas</nome>
+        <descricao>Porta-recados personalizados para presente de formatura.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit120w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="55" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de bolo</nome>
+        <descricao>Preparando para surfar, detalhes prancha e estrela.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit119w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="54" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Surfista</nome>
+        <descricao>Topo de bolo personalizado estilo infantil sobre base de acrílico.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit118w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="53" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Fernando</nome>
+        <descricao>topo estilo infantil. Detalhes: o cavanhaque e a tiara.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit117w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="52" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Surfista radical</nome>
+        <descricao>cabelo personalizado na cor do cliente.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit116w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="51" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes da caixa de chá</nome>
+        <descricao>Miniaturas em biscuit fazem a diferença.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit115w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="50" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixa de Chá</nome>
+        <descricao>Em mdf com visor em vidro e com divisórias; detalhes em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit114w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="49" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Hora do Chá</nome>
+        <descricao>Caixa de chá e porta-guardanapos coordenados.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit113w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="48" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Placa de porta</nome>
+        <descricao>Para dar boas-vindas a todos que chegarem.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit112w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="47" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Nossa Senhora</nome>
+        <descricao>Feita totalmente em biscuit sobre base acrílica.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit111w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="46" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lilica Ripilica</nome>
+        <descricao>Cofre em madeira com decoração em biscuit personalizada.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit110w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="45" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>'Lolo'</nome>
+        <descricao>Cofre em madeira com decoração em biscuit personalizada.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit109w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="44" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Acho que vi um gatinho</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit108w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="43" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vivian</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit107w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="42" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Carla</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit106w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="41" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Tricolor</nome>
+        <descricao>Porta-retrato e canetas com jogador personalizado em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit105w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="40" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Gaveteiro</nome>
+        <descricao>Porta-bijuterias de madeira, interior flocado e decoração em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit104w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Biju</titulo>
+        <imgdestaque>Biscuit/Presentinho/gaveteirow.jpg</imgdestaque>
+        <descricao>Esta caixa de madeira, com interior flocado e decoração em biscuit é ideal para as suas bijus.&lt;br&gt;&lt;br&gt;Por meio das gavetas é possível separar brincos, pulseiras, anéis, colares...</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit104w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="39" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>De pantufas</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit103w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="38" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Uma boneca ou uma caneta?</nome>
+        <descricao>As duas coisas. Em biscuit, com base de madeira.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit102w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Duas?</titulo>
+        <imgdestaque>Biscuit/Presentinho/bonecaoucanetaw.jpg</imgdestaque>
+        <descricao>As duas coisas! Além de uma linda boneca feita em biscuit, com base em madeira...&lt;br&gt;&lt;br&gt;...esta caneta se torna um estímulo para sair escrendo por aí (ou mesmo colecionar).</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit102w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="37" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vai um pastel?</nome>
+        <descricao>Cofrinho em formato de banca, com biscuit personalizado.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit101w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Feira</titulo>
+        <imgdestaque>Biscuit/Presentinho/quetalumpastelw.jpg</imgdestaque>
+        <descricao>Com tudo o que tem na banca: as atendentes, os sabores, as massas, ketchup, mostarda e, claro, pastel!&lt;br&gt;&lt;br&gt;Com bonecas em biscuit personalizadas, essa 'pastelaria' é, na verdade, um cofre.</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit101w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="36" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Timão</nome>
+        <descricao>Porta-retrato e canetas, com jogador personalizado em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit100w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="35" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-bijuterias</nome>
+        <descricao>Caixa de madeira, interior flocado e decoração em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit099w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Biju</titulo>
+        <imgdestaque>Biscuit/Presentinho/portabijuteriasw.jpg</imgdestaque>
+        <descricao>Nada mais chato do que procurar brincos, pulseiras, colares, anéis e não achar aqueles que combinam...&lt;br&gt;&lt;br&gt;... direitinho com a sua roupa. Para evitar isso, esta caixa de madeira com interior flocado.</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit099w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="34" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Luana</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit098w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="33" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Thiago</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit097w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="32" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Suelen</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit096w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="31" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Dança-do-ventre</nome>
+        <descricao>Porta-retrato em madeira e dançarina em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit095w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="30" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cãozinho</nome>
+        <descricao>Porta-recados com base em madeira e boneca em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit094w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="29" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vestido azul</nome>
+        <descricao>Porta-retrato em madeira com craquelado e boneca em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit093w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="28" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-recado ou retrato</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit092w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="27" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-recado ou retrato</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit091w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="26" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-recado ou retrato</nome>
+        <descricao>Mini-boneco personalizado com 5 cm feito em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit090w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Turma</titulo>
+        <imgdestaque>Biscuit/Presentinho/portaretratosw.jpg</imgdestaque>
+        <descricao>Mini-bonecos personalizados com 5 cm de altura feitos em biscuit.&lt;br&gt;&lt;br&gt;Lindos como lembrança de aniversário e úteis como porta-recados ou porta-retrato.</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit090w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="25" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-recado</nome>
+        <descricao>Boneco feito em biscuit com seis centímetros de altura.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit088w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="24" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Menina-flor</nome>
+        <descricao>Porta-retrato e recado com vaso de cerâmica e biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit087w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="23" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-retrato, canetas e cartões</nome>
+        <descricao>Personalizados com biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit089w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Porta-tudo</titulo>
+        <imgdestaque>Biscuit/Presentinho/asuacaraw.jpg</imgdestaque>
+        <descricao>Feitos em madeira, o porta-retrato, o porta-caneta e o porta-cartão...&lt;br&gt;&lt;br&gt;...ganham toque de biscuit e uma boneca personalizada com o seu nome.</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit089w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="22" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-retrato, canetas e cartões</nome>
+        <descricao>Em madeira e biscuit, personalizado.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit085w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="21" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Menina estudante</nome>
+        <descricao>Boneca feita em biscuit. Com cerca de 20 cm.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit084w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="20" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Palestra Itália</nome>
+        <descricao>Porta-retrato e canetas para os palmeirenses.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit083w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="19" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Timão</nome>
+        <descricao>Porta-retrato com carrinho em biscuit para os corintianos.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit086w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="18" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-treco</nome>
+        <descricao>Feito com lata de alumínio revestida e enfeitada com biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit082w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="17" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vittória</nome>
+        <descricao>Porta-celular em madeira com frufru e aplicação em biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit081w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="16" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Enzo</nome>
+        <descricao>Porta-caneta, porta-recado e ponteira com Fusca de biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit080w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="15" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Olívia</nome>
+        <descricao>Cômoda com biscuit personalizado para quem receberá o mimo.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit079w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="14" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Aninha</nome>
+        <descricao>Cômoda com gaveta flocada na cor preta enfeitada com biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit078w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="13" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bijoux</nome>
+        <descricao>Porta brincos, anéis, pulseiras e colares feito em madeira.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit077w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Porta-tudo</titulo>
+        <imgdestaque>Biscuit/Presentinho/bijouxw.jpg</imgdestaque>
+        <descricao>Caixa de madeira com dois andares e divisões internas para guardar...&lt;br&gt;&lt;br&gt;...brincos, anéis, colares e pulseiras. Além de uma linda boneca de biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit077w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="12" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Girafinha</nome>
+        <descricao>Ponteira para lápis, lapiseira e caneta em formato de girafa.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit076w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="11" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Girafas</nome>
+        <descricao>Porta-retrato, porta-caneta e ponteira para lápis e caneta.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit075w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Zoo</titulo>
+        <imgdestaque>Biscuit/Presentinho/girafasw.jpg</imgdestaque>
+        <descricao>Porta-retrato e porta-caneta em madeira enfeitada com biscuit.&lt;br&gt;&lt;br&gt;A ponteira para lápis ou caneta também ganha uma girafa.</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit075w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="10" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bonequinha</nome>
+        <descricao>Caixa de madeira enfeitada com biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit056w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Porta-trecos</titulo>
+        <imgdestaque>Biscuit/Presentinho/paraamenininhaw.jpg</imgdestaque>
+        <descricao>Não sabe onde guardar as suas coisinhas? Que tal uma caixa de madeira...&lt;br&gt;&lt;br&gt;...enfeitada com biscuit? A bonequinha pode ser personalizada, como a dona!</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit056w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Ponteira de lápis</nome>
+        <descricao>Deixe seu lápis mais alegres com estes fusquinhas!</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit051w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Menina ou flor?</nome>
+        <descricao>Boneca de biscuit pode ser usada como lembrancinha de bebê.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit039w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Mocinha</nome>
+        <descricao>Pote de vidro com tampa de biscuit para guardar 'coisinhas'.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit037w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Arraiá</nome>
+        <descricao>Totalmente feito de biscuit, boneco convida para uma festança.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit022w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vaquinha</nome>
+        <descricao>Espelho de tomada ganha toque especial com biscuit.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit021w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Coleção</nome>
+        <descricao>Bichinhos em biscuit personalizam lápis, lapiseiras, canetas...</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit018w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Coelho</nome>
+        <descricao>Não é só na Páscoa que o coelhinho fica lindo. Na ponta do lápis também.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit017w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caracol</nome>
+        <descricao>Para ir à escola, um lindo caracol como ponteira de lápis.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit016w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Joaninha</nome>
+        <descricao>Para diferenciar os lápis, uma linda joaninha como ponteira.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit015w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

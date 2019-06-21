@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="3" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Itália</nome>
+        <descricao>Encomenda européia une a elegância do dourado e de tons pastel ao charme das alças de madeira.</descricao>
+        <imagem>Bolsa/tumbbolsa001aw.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Itália</titulo>
+        <imgdestaque>Bolsa/rosasdouradasw.jpg</imgdestaque>
+        <descricao>Encomenda européia une a elegância do dourado e de tons pastel ao charme das alças de madeira.&lt;br&gt;&lt;br&gt;Por dentro, um firme e resistente forro em gorgurinho.</descricao>
+        <imagem>Bolsa/flashbolsa001aw.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Flores</nome>
+        <descricao>Bolsa com flores e alças artesanais feitas com tecidos, pérolas e madeira.</descricao>
+        <imagem>Bolsa/tumbbolsa002w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Borboleta</nome>
+        <descricao>Bolsa estilo "saco" com 40cm de altura, bolsos internos e bordado.</descricao>
+        <imagem>Bolsa/tumbbolsa004w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

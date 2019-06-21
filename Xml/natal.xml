@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="24" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vamos guardar um dindin</nome>
+        <descricao>além de decorar a festa Natal, incentiva guardar um din din.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit023w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="23" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cofrinhos</nome>
+        <descricao>casinhas personalizadas das bonecas de neve feitas em biscuit.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit024w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="22" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cofrinhos</nome>
+        <descricao>decorados com tema natalino e telhado texturizado com efeito neve.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit025w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="21" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Casal</nome>
+        <descricao>porta-recado em base de mdf pintada com motivos natalinos.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit022w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="20" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lado a lado</nome>
+        <descricao>sempre juntinhos, lado a lado para comemorar mais um Natal.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit020w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>O amor</titulo>
+        <imgdestaque>Biscuit/Natal/amizadecarinhow.jpg</imgdestaque>
+        <descricao>Lado a lado o casal boneco de neve comemoram o Natal.&lt;br&gt;&lt;br&gt;Em biscuit, o porta recado espera a foto.</descricao>
+        <imagem>Biscuit/Natal/flashbiscuit020w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="19" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>O amor e a esperança</nome>
+        <descricao>ela traz o coração na mão e ele a estrelinha da esperança.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit021w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="18" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Casal bonecos de neve</nome>
+        <descricao>enamorados eternos, porta-recado de Natal.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit019w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="17" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cofrinhos</nome>
+        <descricao>Tema Natal. Que tal guardar um dindin para o próximo ano?</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit013w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="16" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cofrinhos</nome>
+        <descricao>Textura no telhado, detalhe da porta e boneco de neve em biscuit.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit012w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="15" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cofrinhos</nome>
+        <descricao>Casinha do boneco de neve para guardar dindin no ano novo.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit011w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="14" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Casa cofrinho</nome>
+        <descricao>Personalizado. Boneco de neve menino.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit010w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="13" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Casa cofrinho</nome>
+        <descricao>Boneco de neve lembra que devemos ter a estrela da esperança.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit009w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Natal</titulo>
+        <imgdestaque>Biscuit/Natal/casaw.jpg</imgdestaque>
+        <descricao>...tão engraçada...tem janela, tem teto com neve...&lt;br&gt;&lt;br&gt;...uma casa cofre pra guardar din-din o ano todo!</descricao>
+        <imagem>Biscuit/Natal/flashbiscuit009w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="12" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Casa cofrinho</nome>
+        <descricao>Tudo rosa. Gorro, luva, cachecol e porta. Bem menina!</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit008w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="11" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Boneco de neve</nome>
+        <descricao>Porta-recado boneco de neve personalizado em base acrílica.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit007w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="10" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Boneco de neve</nome>
+        <descricao>em bola acrílica para colocar balas e doces.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit005w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta panetone</nome>
+        <descricao>caixa porta panetone personalizada com textura e detalhes em biscuit.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit004w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Boneco de neve lilás</nome>
+        <descricao>porta recado personalizado em base acrílica formato estrela.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit003w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Família Boneco de Neve</nome>
+        <descricao>base em mdf verde, detalhes e bonecos de neve em biscuit.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit016w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Família Boneco de Neve</nome>
+        <descricao>porta recado em base de mdf e bonecos em biscuit.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit002w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Família Boneco de Neve</nome>
+        <descricao>base em mdf verde Natal e bonecos de neve em biscuit.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit001w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Natal</titulo>
+        <imgdestaque>Biscuit/Natal/alemdopapainoelw.jpg</imgdestaque>
+        <descricao>Todos reunidos para festejar com muito amor.&lt;br&gt;&lt;br&gt;A família bonecos de neve, todos eles com a estrela da esperança nas mãos.</descricao>
+        <imagem>Biscuit/Natal/flashbiscuit001w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Natal</nome>
+        <descricao>Caixas de vinho e porta panetone com textura e pintura natalina.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit018w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixas de vinho</nome>
+        <descricao>Em mdf verde Natal  ou vermelho com textura aplicada na tampa.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit017w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Natal</nome>
+        <descricao>Caixas de vinho e porta panetones em mdf, bonecos de neve em biscuit.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit015w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Natal</nome>
+        <descricao>Pote de vidro recebe tampa com massa de biscuit e um lindo boneco-de-neve.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit014w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

@@ -1,0 +1,1171 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="117" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Noivinhos na festa</nome>
+        <descricao>foi um prazer fazer estes dois casais de noivinhos!!!</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit118w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit118wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="116" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Noivinhos na festa</nome>
+        <descricao>felizes desejando felicidades mil Priscila e Bruno.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit117w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit117wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="115" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Noivinhos na festa</nome>
+        <descricao>felizes desejando felicidades mil a Fabi e Higor.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit116w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit116wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="114" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Noivinhos personalizados</nome>
+        <descricao>cor dos cabelos, penteado, arranjo, vestido, terno e buquê.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit115w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit115wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="113" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>detalhes para um dia de grande emoção!!!</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit114w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit114wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="112" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Detalhes Pri e Bruno</nome>
+        <descricao>Pau de macarrão, cartão de crédito, buquê, mini fotos, sacolas das compras, vídeo game, controle e claro, a cerveja do Bruno.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit113w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit113wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="111" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Buquê</nome>
+        <descricao>Priscila escolheu orquídeas em formato de ramalhete.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit112w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit112wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="110" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Detalhes Pri e Bruno</nome>
+        <descricao>vestido personalizado, bordado, com seu laço e véu com beirada bordada.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit111w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit111wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="109" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>calculadora, mochila com dois cabides, livros de engenharia, foto da casa; ela com contas na mão, buquê e contas personalizadas com o nome dos dois.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit110w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit110wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="108" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Detalhes Fabi e Higor</nome>
+        <descricao>Vestido personalizado, bordado, com seu laço, véu com beirada bordada.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit109w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit109wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="107" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Buquê</nome>
+        <descricao>Astromélias brancas com toque rosa.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit108w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit108wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="106" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Caixa para guardar os noivinhos</nome>
+        <descricao>personalizada para que possam sempre lembrar o dia mais importante de suas vidas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit107w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit107wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="105" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Noivos na festa</nome>
+        <descricao>Juliana e Valdez foi um prazer fazer o topo de bolo de seu casamento!</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit106w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit106wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="104" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Detalhe da Caixa de Noivinhos</nome>
+        <descricao>arabescos em forma de coração nas laterais e vidros para visualização.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit105w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit105wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="103" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Caixa para guardar os noivinhos</nome>
+        <descricao>personalizada para que possam sempre lembrar o dia mais importante de suas vidas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit104w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit104wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="102" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>ela engenheira civil levou seu capacete branco, ele engenheiro mecânico seus livros, fotos de momentos inesquecíveis. A noiva pediu a corda.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit103w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit103wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="101" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>buquê, rosas aplicadas no vestido, a corda.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit102w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit102wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="100" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Cabelo personalizado</nome>
+        <descricao>Juliana prendeu seu cabelo, colocou alguns brilhos e uma tiara.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit101w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit101wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="99" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Buquê</nome>
+        <descricao>personalizado, rosas amarelas da cor que a Juliana gosta.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit100w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit100wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="98" ativo="true" destaque="false" detalhe="false" miniatura="true" data="17/11/2012">
+      <miniatura>
+        <nome>Noivinhos na festa</nome>
+        <descricao>felizes desejando felicidades mil a Juliana e Valdez.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit099w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit099wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="97" ativo="true" destaque="false" detalhe="false" miniatura="true" data="05/08/2012">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>caixa e capa laqueadas em branco com argolas articuladas. Iniciais em biscuit.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit098w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit098wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="96" ativo="true" destaque="false" detalhe="false" miniatura="true" data="05/08/2012">
+      <miniatura>
+        <nome>Livro personalizado</nome>
+        <descricao>montagens digitais com fotos e textos personalizados.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit097w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit097wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="95" ativo="true" destaque="false" detalhe="false" miniatura="true" data="05/08/2012">
+      <miniatura>
+        <nome>Para deixar a mensagem</nome>
+        <descricao>folha personalizada para guardar a recordação de todos que participaram nesse momento único.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit096w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit096wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="94" ativo="true" destaque="false" detalhe="false" miniatura="true" data="05/08/2012">
+      <miniatura>
+        <nome>Detalhes tão pequenos</nome>
+        <descricao>fotos para um momento eterno.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit095w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit095wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="93" ativo="true" destaque="false" detalhe="false" miniatura="true" data="05/08/2012">
+      <miniatura>
+        <nome>Livro personalizado</nome>
+        <descricao>montagens digitais com fotos e textos personalizados.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit094w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit094wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="92" ativo="true" destaque="false" detalhe="false" miniatura="true" data="05/08/2012">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>caixa flocada em vermelho e iniciais personalizadas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit093w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit093wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="91" ativo="true" destaque="false" detalhe="false" miniatura="true" data="05/08/2012">
+      <miniatura>
+        <nome>Kit presença</nome>
+        <descricao>livro de presença e caixa personalizada.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit092w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit092wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="90" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/03/2012">
+      <miniatura>
+        <nome>Katja e Flávio</nome>
+        <descricao>noivos estilo fofinho personalizados. Cabelos, olhos, buquê, projeto e ipod.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit091w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit091wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="89" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/03/2012">
+      <miniatura>
+        <nome>Detalhes personalizados</nome>
+        <descricao>Vestido, brincos, bracelete, tiara e buquê de flores brancas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit090w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit090wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="88" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/03/2012">
+      <miniatura>
+        <nome>Detalhe tão pequenos</nome>
+        <descricao>projeto, lápis e borracha para o arquiteto. Tênis e Ipod para a educadora física que adora correr.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit089w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit089wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="87" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/03/2012">
+      <miniatura>
+        <nome>Arquiteto</nome>
+        <descricao>o projeto do arquiteto não podia faltar.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit088w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit088wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="86" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/02/2012">
+      <miniatura>
+        <nome>Topo de bolo</nome>
+        <descricao>noivos estilo fofinho personalizados, buquê, bíblia e bandeira do time.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit087w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit087wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="85" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/02/2012">
+      <miniatura>
+        <nome>Detalhes personalizados</nome>
+        <descricao>Vestido, brincos, bracelete e buquê de tulipas brancas com flores do campo.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit086w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit086wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="84" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/02/2012">
+      <miniatura>
+        <nome>Caixa personalizada</nome>
+        <descricao>Pelo arabesco em forma de coração... mostrando sua felicidade.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit085w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit085wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="83" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/02/2012">
+      <miniatura>
+        <nome>Bíblia</nome>
+        <descricao>texto escolhido para agradecer uma graça num momento de bênção. Coroa e penteado personalizados.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit084w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit084wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="82" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/02/2012">
+      <miniatura>
+        <nome>Bandeira</nome>
+        <descricao>o noivo trouxe a bandeira do seu time.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit083w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit083wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="81" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/02/2012">
+      <miniatura>
+        <nome>Keila e Fábio</nome>
+        <descricao>topo de bolo em caixa com arabesco em forma de coração  e lembrancinha personalizada.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit082w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit082wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="80" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/02/2012">
+      <miniatura>
+        <nome>Detalhes tão pequenos</nome>
+        <descricao>mas que fazem a diferença num momento único.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit081w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit081wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="79" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Suelen e Israel</nome>
+        <descricao>noivinhos topo de bolo personalizados, vestido, buquê, terno, placa e malas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit080w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit080wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="78" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>O buquê</nome>
+        <descricao>um detalhe que todos olham e as rosas vermelhas marcam a presença.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit079w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit079wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="77" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>aproximando aos pequenos detalhes, fazendo diferença num momento único.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit078w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit078wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="76" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>o vestido da noiva com seu glamour e o fraque com sua elegância.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit077w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit077wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="75" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Suelen e Israel</nome>
+        <descricao>do Jd Joamar a Interlagos. De Interlagos a Jd. Joamar e as malas vermelhas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit076w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit076wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="74" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Topo de bolo personalizado</nome>
+        <descricao>sobre o bolo os noivinhos muito felizes curtindo a festa.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit075w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit075wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="73" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Felizes para sempre</nome>
+        <descricao>para casa numa caixa com arabescos em forma de corações nas laterais com vidros removíveis.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit074w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit074wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="72" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Coração-Amor</nome>
+        <descricao>através do arabesco em formato de coração os noivinhos lado a lado.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit073w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit073wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="71" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Kit casamento</nome>
+        <descricao>topo de bolo e livro de presença com caixa personalizados.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit072w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit072wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="70" ativo="true" destaque="false" detalhe="false" miniatura="true" data="20/01/2012">
+      <miniatura>
+        <nome>Kit casamento</nome>
+        <descricao>topo de bolo e livro de presença com caixa personalizados.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit071w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit071wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="69" ativo="true" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Karen e Claudio</nome>
+        <descricao>noivinhos topo de bolo personalizados: vestido, buquê, terno, placa e Ipod!</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit070w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit070wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="68" ativo="true" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>O buquê</nome>
+        <descricao>um detalhe que todos olham e as rosas brancas marcam a presença.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit069w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit069wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="67" ativo="true" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>aproximando aos pequenos detalhes, fazendo diferença num momento único.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit068w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit068wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="66" ativo="true" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Karen e Claudio</nome>
+        <descricao>Mesmo no casamento o tênis não poderia faltar.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit067w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit067wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="65" ativo="false" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Casamento</nome>
+        <descricao>felicidade do casal na festa de casamento.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit066w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit066wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="64" ativo="true" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Karen e Claudio</nome>
+        <descricao>Eles adoram correr e foram correndo ficar sobre o bolo.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit065w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit065wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="63" ativo="true" destaque="true" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Felizes para sempre</nome>
+        <descricao>levados para casa numa caixa personalizada.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit064w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit064wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque>
+        <titulo>Para guardar</titulo>
+        <imgdestaque>Biscuit/Casamento/caixaparanoivinhosw.jpg</imgdestaque>
+        <descricao>Para guardar eternamente esse dia...&lt;br&gt;&lt;br&gt; felizes para sempre... para casa numa caixa personalizada.</descricao>
+        <imagem>Biscuit/Casamento/flashbiscuit047w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="62" ativo="true" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Coração-Amor</nome>
+        <descricao>através do arabesco em formato de coração os noivinhos lado a lado.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit063w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit063wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="61" ativo="true" destaque="true" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Caixa personalizada</nome>
+        <descricao>com arabescos em forma de corações nas laterais com vidros removíveis.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit062w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit062wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque>
+        <titulo>Para três tamanhos</titulo>
+        <imgdestaque>Biscuit/Casamento/caixaparanoivinhosw.jpg</imgdestaque>
+        <descricao>Caixa personalizada: &lt;br&gt;&lt;br&gt; com arabescos em forma de corações nas laterais e vidros removíveis.</descricao>
+        <imagem>Biscuit/Casamento/flashbiscuit046w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="60" ativo="true" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Caixa para noivinhos</nome>
+        <descricao>três tamanhos de base: 15 cm, 17 cm (oval) e 13 cm de diâmetro.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit061w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit061wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="59" ativo="true" destaque="false" detalhe="false" miniatura="true" data="21/11/2011">
+      <miniatura>
+        <nome>Caixa personalizada</nome>
+        <descricao>com arabescos em forma de corações nas laterais com vidros removíveis em três tamanhos.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit060w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit060wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="58" ativo="true" destaque="false" detalhe="false" miniatura="true" data="16/10/2011">
+      <miniatura>
+        <nome>Renata e Guilherme</nome>
+        <descricao>noivinhos topo de bolo personalizados: vestido, buquê, terno e bonsai de jasmim.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit059w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit059wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="57" ativo="true" destaque="false" detalhe="false" miniatura="true" data="16/10/2011">
+      <miniatura>
+        <nome>Renata e Guilherme</nome>
+        <descricao>noivinhos topo de bolo personalizados: vestido, buquê, terno e bonsai de jasmim.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit058w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit058wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="56" ativo="true" destaque="false" detalhe="false" miniatura="true" data="16/10/2011">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>aproximando aos pequenos detalhes, fazendo diferença num momento único.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit057w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit057wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="55" ativo="true" destaque="false" detalhe="false" miniatura="true" data="16/10/2011">
+      <miniatura>
+        <nome>O buquê</nome>
+        <descricao>um detalhe que todos olham e as rosas em harmonia com as callas marcam a presença.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit056w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit056wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="54" ativo="true" destaque="false" detalhe="false" miniatura="true" data="16/10/2011">
+      <miniatura>
+        <nome>Caixa personalizada</nome>
+        <descricao>felizes para sempre... Para casa numa caixa personalizada.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit055w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit055wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="53" ativo="true" destaque="true" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Noivinho puxado pela noiva</nome>
+        <descricao>está na hora... ele não larga o laptop... ela não teve alternativa.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit054w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit054wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque>
+        <titulo>Para eternizar</titulo>
+        <imgdestaque>Biscuit/Casamento/topodebolow.jpg</imgdestaque>
+        <descricao>Para guardar na lembrança! &lt;br&gt;&lt;br&gt; Um lindo topo de bolo personalizado estilo fofinho.</descricao>
+        <imagem>Biscuit/Casamento/flashbiscuit048w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="52" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Topo de bolo</nome>
+        <descricao>detalhes que fazem lembrar os noivinhos: cor de cabelo, vestido e o buquê.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit053w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit053wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="51" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Buquê personalizado</nome>
+        <descricao>lírios em cascata, com detalhes em rosas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit052w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit052wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="50" ativo="true" destaque="false" detalhe="false" miniatura="true" data="25/05/2011">
+      <miniatura>
+        <nome>Caixa personalizada</nome>
+        <descricao>laqueada em branco com iniciais de biscuit em vermelho.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit051w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit051wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="49" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>folhas digitais personalizadas impressas em papel fotográfico.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit050w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit050wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="48" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Harmonia caixa e livro</nome>
+        <descricao>conjunto para marcar presença numa data tão especial.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit049w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit049wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="47" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vermelho-paixão</nome>
+        <descricao>iniciais de biscuit em vermelho combinando com o flocado da caixa.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit048w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit048wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="46" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Embalagem</nome>
+        <descricao>Lembrancinhas e o topo de bolo em caixas personalizadas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit047w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit047wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="45" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>bolero de tecido bordado, a cauda do vestido, o óculos, o cavanhaque...</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit046w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit046wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="44" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo e lembrancinhas</nome>
+        <descricao>os instrumentos não podiam faltar.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit045w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit045wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque>
+        <titulo>Para reunir</titulo>
+        <imgdestaque>Biscuit/Casamento/kitcasamentow.jpg</imgdestaque>
+        <descricao>Para guardar eternamente esse dia...&lt;br&gt;&lt;br&gt;... topo de bolo e lembrancinhas personalizadas para comemorar.</descricao>
+        <imagem>Biscuit/Casamento/flashbiscuit045w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="43" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de Bolo - Paulo e Fernanda</nome>
+        <descricao>Topo estilo bolinha personalizado.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit044w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit044wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="42" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Buquê</nome>
+        <descricao>um detalhe que todos olham. As rosas marcaram presença em meia taça.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit043w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit043wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="41" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha casamento</nome>
+        <descricao>Cartão personalizado impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit042w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit042wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="40" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha casamento</nome>
+        <descricao>Dois corações em um. Base acrilica.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit041w.jpg</imagem>
+        <imagem_grande>Biscuit/Casamento/tumbbiscuit041wl.jpg</imagem_grande>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="39" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Na festa</nome>
+        <descricao>Deyse e Marcelo foi um prazer fazer o topo de bolo de seu casamento.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit040w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Para festejar</titulo>
+        <imgdestaque>Biscuit/Casamento/topodebolow.jpg</imgdestaque>
+        <descricao>Para guardar na lembrança...&lt;br&gt;&lt;br&gt;... um lindo topo de bolo personalizado com detalhes dos noivos.</descricao>
+        <imagem>Biscuit/Casamento/flashbiscuit040w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="38" ativo="false" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivinhos infantis</nome>
+        <descricao>Personalizados de acordo com os noivos.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit029w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="37" ativo="false" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivinhos infantis</nome>
+        <descricao>Personalizados para eternizar um momento tão especial.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit028w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="36" ativo="false" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivinhos infantis</nome>
+        <descricao>Detalhes diferenciados - pulseira, véu, buquê, a gravata....</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit027w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="35" ativo="false" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivinhos infantis</nome>
+        <descricao>Poses que tão um toque todo especial e diferenciado.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit026w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="34" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivo baterista</nome>
+        <descricao>Ela super romântica, com detalhes no vestido e coroa no véu.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit025w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="33" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivo baterista</nome>
+        <descricao>Observe a bateria, pratos e pedais; a coroa e o véu da noiva.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit024w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="32" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivo baterista</nome>
+        <descricao>não quer parar de tocar....a noiva pega a gravata....tá na hora...</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit023w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="31" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivo baterista</nome>
+        <descricao>Observe a bateria, pratos e pedais; a coroa e o véu da noiva.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit022w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="30" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivo baterista</nome>
+        <descricao>Detalhes da bateria, pratos, pedais, olhe o gatinho escondido.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit021w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="29" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Noivo baterista</nome>
+        <descricao>Detalhes da bateria, pratos, pedais, detalhes do buquê, gravata.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit020w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="28" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Palmeiras e Corinthians</nome>
+        <descricao>Ele quis a camiseta do time, ela a bandeira na mão...e o buquê?</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit019w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="27" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha Stela e Gabriel</nome>
+        <descricao>Cartão personalizado impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit018w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="26" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Stela e Gabriel</nome>
+        <descricao>Na festa, todas embaladas e colocadas lado a lado.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit017w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="25" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Na festa</nome>
+        <descricao>Stela e Gabriel, palmeirense e corintiano se uniram pelo amor.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit016w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="24" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Capa personalizada acompanha caneta personalizada.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit015w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="23" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Folhas digitais personalizadas com fotos e textos.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit014w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="22" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de bolo e lembrancinhas</nome>
+        <descricao>Tudo personalizado.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit013w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="21" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>A bandeira não podia faltar. Detalhe da franja solta e da alça do vestido.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit011w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Para registrar</titulo>
+        <imgdestaque>Biscuit/Casamento/detalhespersonalizadosw.jpg</imgdestaque>
+        <descricao>Para marcar eternamente um momento muito especial...&lt;br&gt;&lt;br&gt;... detalhes pequenos...mas tão grandes para os dois...</descricao>
+        <imagem>Biscuit/Casamento/flashbiscuit011w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="20" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha</nome>
+        <descricao>Dois corações em um só. O veuzinho deu um toque especial.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit010w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="19" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha</nome>
+        <descricao>Cartão personalizado impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit009w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="18" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro cenário</nome>
+        <descricao>Noivos na banheira, cercados de detalhes - toalhas rosa e azul.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit008w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Para relaxar</titulo>
+        <imgdestaque>Biscuit/Casamento/umbanhodeespumaw.jpg</imgdestaque>
+        <descricao>...Após a festa...&lt;br&gt;&lt;br&gt;... um lindo quadro cenário para registrar momentos a dois.</descricao>
+        <imagem>Biscuit/Casamento/flashbiscuit008w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="17" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Quadro cenário</nome>
+        <descricao>Ela nem tirou o véu e ainda levou o buquê. Ele de gravata.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit007w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="16" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Os detalhes</nome>
+        <descricao>coordenados fazem a harmonia e romantismo aparecerem.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit006w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="15" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>piso feito em biscuit e o tapete é de barbante em crochê.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit005w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="14" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de bolo</nome>
+        <descricao>do bolo para o cenário, um toque diferente para uma data especial.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit004w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="13" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes tão pequenos</nome>
+        <descricao>Mas que fazem a diferença num quadro personalizado.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit039w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="12" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha casamento</nome>
+        <descricao>Agarradinhos, porta recado em base acrilica.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit003w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="11" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha casamento</nome>
+        <descricao>Agarradinhos, porta recado em base coração de biscuit.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit002w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="10" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha casamento</nome>
+        <descricao>Cartão personalizado impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit001w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Na festa</nome>
+        <descricao>Dri e Le foi um prazer fazer o topo de bolo de seu casamento.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit038w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Na festa</nome>
+        <descricao>Mesa com as lembrancinhas personalizadas e o livro de presença.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit037w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de bolo</nome>
+        <descricao>Noivos estilo bolinha, ela com buquê e ele com a camiseta do time.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit036w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de bolo na festa</nome>
+        <descricao>Foto tirada no dia do casamento da Dri e do Leandro.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit035w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Caneta combinando com o livro, embalados em linda caixa.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit034w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Livro de presença</nome>
+        <descricao>Capa com decoupage. Folhas digitais personalizadas.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit033w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de bolo</nome>
+        <descricao>Personalizados - cor de olhos, cabelos, vestido e buquê.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit032w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Topo de bolo</nome>
+        <descricao>Algo que eternizar um momento tão especial da vida de um casal.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit031w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Casamento kit</nome>
+        <descricao>Topo de bolo, livro de presença e lembrancinhas personalizados.</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit030w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="41" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Eva</nome>
+        <descricao>lembrancinha porta-recado personalizada em base acrílica.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit097w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Flor!</titulo>
+        <imgdestaque>Biscuit/Lembrancinha/meninalilasw.jpg</imgdestaque>
+        <descricao>Quer uma lembrancinha linda, além de muito original, para o nascimento ou aniversário da sua princesa?&lt;br&gt;&lt;br&gt;Que tal uma menina com porta-recado e o nome na plaquinha?</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit097w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="40" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-recado</nome>
+        <descricao>lembrancinha porta-recado personalizada com nome na placa.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit096w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="39" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Fusca</nome>
+        <descricao>Cartão digital com o tema fusca e impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit095w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="38" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Fusca</nome>
+        <descricao>Caderno de presença, ponteira de lápis e porta-recado fusca.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit094w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Bi-Bi!</titulo>
+        <imgdestaque>Biscuit/Lembrancinha/fusquinhaw.jpg</imgdestaque>
+        <descricao>Quer uma lembrancinha linda, além de muito original, para o nascimento ou aniversário do seu bebê?&lt;br&gt;&lt;br&gt;Que tal um fusquinha feito em biscuit com porta-recado e o nome na plaquinha?</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit094w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="37" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Fusquinhas</nome>
+        <descricao>Porta-recado em biscuit com o nome da criança na placa do carro.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit093w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="36" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pezão</nome>
+        <descricao>Porta-recado ou foto, personalizado a cor de cabelo, olhos e boné.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit092w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="35" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pablo</nome>
+        <descricao>Vidro papinha com tampa personalizada em biscuit. Ponteira de lápis.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit091w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="34" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pablo</nome>
+        <descricao>Cartão digital personalizado com o Pablo e impresso em papel fotográfico.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit090w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>João Victor</titulo>
+        <imgdestaque>Biscuit/Lembrancinha/primeiroaniversariow.jpg</imgdestaque>
+        <descricao>Sem idéias para as lembrancinhas da festa do filhão ou da filhinha?&lt;br&gt;&lt;br&gt;Pote em biscuit personalizado com placa e cartão personalizado.</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit090w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="33" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Potes Pablo</nome>
+        <descricao>Lembrancinhas personalizadas com o nome da criança.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit089w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="32" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lindinha</nome>
+        <descricao>Boneca para topo de bolo ou porta-recado em base acrílica.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit088w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="31" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lindinha</nome>
+        <descricao>Boneca para topo de bolo ou porta-recado em base acrílica.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit087w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="30" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Magrelas</nome>
+        <descricao>Bonecas em biscuit personalizadas cores de roupa, cabelo, flor.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit086w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="29" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Menina no vaso</nome>
+        <descricao>Porta-recado em vaso de cerâmica pintado e boneca em biscuit.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit085w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="28" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Menina e seu cãozinho</nome>
+        <descricao>Porta-recado em base de madeira revestida com biscuit.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit084w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="27" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Coleção</nome>
+        <descricao>Centopéias com nomes de todos da família viram imãs de geladeira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit002w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="26" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-recados</nome>
+        <descricao>Centopéia com o nome escolhido vira imã de geladeira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit002aw.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="25" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Imã</nome>
+        <descricao>Centopéia feita com massa de biscuit colorida vira imã de geladeira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit002bw.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="24" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Goool</nome>
+        <descricao>Lembrancinhas de recém-nascido em formato de bola de futebol.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit005w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="23" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Menina</nome>
+        <descricao>Lembrancinhas para recém-nascida em biscuit com imã.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit028w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="22" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Recém-nascida</nome>
+        <descricao>Cestinha em madeira com decoração e lembrancinhas de menina.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit029w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="21" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Fusquinha</nome>
+        <descricao>Porta-recados em forma de Fusca e com nome na plana.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit054w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Bi-Bi!</titulo>
+        <imgdestaque>Biscuit/Lembrancinha/fusquinhaw.jpg</imgdestaque>
+        <descricao>Quer uma lembrancinha linda, além de muito original, para o nascimento ou aniversário do seu bebê?&lt;br&gt;&lt;br&gt;Que tal um fusquinha feito em biscuit com porta-recado e o nome na plaquinha?</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit054w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="20" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Fusquinhas</nome>
+        <descricao>Lembrancinha com porta-recado em forma de Fusca. Bi-Bi!</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit055w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="19" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pirulito</nome>
+        <descricao>Lembrancinha feita em biscuit com palito de madeira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit060w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="18" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cata-vento</nome>
+        <descricao>Lembrancinha feita em biscuit com palito de madeira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit062w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="17" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Fusquinha</nome>
+        <descricao>Lembrancinha feita em biscuit com ou sem imã de geladeira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit064w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="16" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pipa</nome>
+        <descricao>Lembrancinha feita em biscuit com ou sem imã de geladeira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit067w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="15" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Boneca de avental</nome>
+        <descricao>Pode ser presenteada sozinha ou em uma caixa ou pote.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit069w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="14" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Trio amiguinhas</nome>
+        <descricao>Em diversos tamanhos, viram uma coleção!</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit070w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="13" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Primavera</nome>
+        <descricao>Boneca traz a alegria das flores com cores claras.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit071w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="12" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinha da Lilica</nome>
+        <descricao>Boneca feita em biscuit com pote em madeira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit072w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="11" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Boneca Fashion</nome>
+        <descricao>Feita em biscuit, com 20cm e personalizada.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit073w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Fashion</titulo>
+        <imgdestaque>Biscuit/Lembrancinha/asuacaraw.jpg</imgdestaque>
+        <descricao>Boneca em biscuit com 20 centímetros de altura e totalmente personalizada.&lt;br&gt;&lt;br&gt;Ou seja, um presente que é a sua cara: você escolhe desde a roupa até a cor do cabelo</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit073w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="10" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Mágico</nome>
+        <descricao>Potinho de vidro com tampa revestida em biscuit. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit074w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Palhaço</nome>
+        <descricao>Potinho de vidro com tampa revestida em biscuit. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit075w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Elefante</nome>
+        <descricao>Potinho de vidro com tampa revestida em biscuit. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit076w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Coelho</nome>
+        <descricao>Potinho de vidro com tampa revestida em biscuit. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit077w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Coelho</nome>
+        <descricao>Potinho de vidro com tampa revestida em biscuit. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit078w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Mágico</nome>
+        <descricao>Lembrancinha em biscuit com cartão. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit079w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Palhaço</nome>
+        <descricao>Lembrancinha em biscuit com cartão. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit080w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Elefante</nome>
+        <descricao>Lembrancinha em biscuit com cartão. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit081w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Coelho</nome>
+        <descricao>Lembrancinha em biscuit com cartão. Coleção circo.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit082w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lucas</nome>
+        <descricao>Imã de geladeira com boneco personalizado em biscuit.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit083w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Lucas</titulo>
+        <imgdestaque>Biscuit/Lembrancinha/primeiroaniversariow.jpg</imgdestaque>
+        <descricao>Sem idéias para as lembrancinhas da festa do filhão ou da filhinha?&lt;br&gt;&lt;br&gt;Imãs de geladeira com boneco em biscuit personalizado e placa com nome e idade.</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit083w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

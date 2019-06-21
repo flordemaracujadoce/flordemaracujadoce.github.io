@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="70" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Potinho coelhinho</nome>
+        <descricao>lembrancinha para festa ou para presentear na Páscoa.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit128w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="69" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Potinhos recheados</nome>
+        <descricao>recheados... vira um presente muito gostoso... hummm.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit127w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="68" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinhas coelhinhos</nome>
+        <descricao>personalizadas com cartão impressão digital.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit126w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="67" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vasinho coelhinha</nome>
+        <descricao>Mamãe coelha no vasinho ao lado dos potinhos.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit125w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="66" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Potes sapinhos</nome>
+        <descricao>potes personalizados com sapinhos feitos em biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit123w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="65" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Potes sapinhos</nome>
+        <descricao>detalhes: gramas, borboleta, rosa, joaninha.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit124w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="64" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit</nome>
+        <descricao>potes, porta guardanapos, lembrancinha e sapinhos em base acrílica.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit111w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="63" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit Família sapo</nome>
+        <descricao>conjunto coordenado para trazer muita sorte.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit112w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="62" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit família sapo</nome>
+        <descricao>você tem a idéia e nós criamos a seu gosto.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit113w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="61" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit família sapo</nome>
+        <descricao>pote com tampa decorada com a família sapo super personalizada.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit114w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Sapos</titulo>
+        <imgdestaque>Biscuit/Pote/familiasapow.jpg</imgdestaque>
+        <descricao>Pote de vidro recebe tampa revestida com massa de biscuit.&lt;br&gt;&lt;br&gt;Em cima, uma linda família sapo!</descricao>
+        <imagem>Biscuit/Pote/flashbiscuit114w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="60" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit família sapo</nome>
+        <descricao>detalhes que fazem a diferença, cogumelos, graminha.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit115w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="59" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit família sapo</nome>
+        <descricao>pote personalizado com dona Sapa, Sr Sapo e seu filhotinho.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit116w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="58" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit</nome>
+        <descricao>harmonia das cores, detalhes marcando presença, borboletinha e cogumelos.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit117w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="57" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit</nome>
+        <descricao>harmonia das cores, detalhes marcando presença, borboletinha e cogumelos.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit118w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="56" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pote para balas e bombons</nome>
+        <descricao>pote personalizado com doces, bombons e balas.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit119w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="55" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Brigadeiro, beijinho, confete, cupcake</nome>
+        <descricao>huuuuummm, quem resiste?</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit120w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="54" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Doces</nome>
+        <descricao>tampa revestida com biscuit texturizado e doces que parecem de verdade.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit121w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="53" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Kit potes de doces</nome>
+        <descricao>conjunto de potes em biscuit para doces, balas e bombons.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit122w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="52" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Delicado</nome>
+        <descricao>Um pote para guardar mimos, doces... para decorar sua cozinha.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit110w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="51" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Rosas</nome>
+        <descricao>Para não dizer que não falei delas. Elas são lindas em todos os lugares.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit109w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="50" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Rosas sempre rosas</nome>
+        <descricao>decorando a tampa do pote de bolacha.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit107w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="49" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pote de bolachas</nome>
+        <descricao>delicado e com pequenos botões no rótulo.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit106w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="48" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bombons</nome>
+        <descricao>tampa revestida com biscuit texturizado e bombons sortidos.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit105w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="47" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bombons</nome>
+        <descricao>Vidro revestido com craquelê branco e dourado.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit104w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="46" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Balas</nome>
+        <descricao>Vidro revestido com craquelê branco e dourado formando linda renda.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit103w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="45" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pote de balas</nome>
+        <descricao>tampa revestida com biscuit texturizado, balas coloridas.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit101w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="44" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>Tampa revestida em biscuit com modelos de bolachas, até uma mordida.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit102w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="43" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Com amor</nome>
+        <descricao>Pote personalizado com o nome escolhido com todo amor.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit100w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="42" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes tão pequenos</nome>
+        <descricao>Um botão de rosa, a cestinha com doces...</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit099w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Cafezinho</titulo>
+        <imgdestaque>Biscuit/Pote/potedavilmaw.jpg</imgdestaque>
+        <descricao>Pote especial para hora do cafezinho.&lt;br&gt;&lt;br&gt;Em cima, o café e os biscoitinhos feitos com amor...com muito carinho.</descricao>
+        <imagem>Biscuit/Pote/flashbiscuit099w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="41" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes, detalhes</nome>
+        <descricao>O bule, a xícara, a toalha tudo com muito amor.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit098w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="40" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Coelhinho da Páscoa que trazes pra mim</nome>
+        <descricao>potes personalizados para doces.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit097w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="39" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Azul e branco</nome>
+        <descricao>Pote personalizado na harmonia das cores azul e branco.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit096w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="38" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Mimo</nome>
+        <descricao>Para o lanchinho da tarde um cafezinho com Strufulli...uma delícia.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit095w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="37" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Strufulli</nome>
+        <descricao>O pote tinha que ser tão lindo quanto o biscoitinho de origem italiana.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit094w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="36" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pote frutinhas</nome>
+        <descricao>Tampa em madeira revestida em biscuit. Várias frutas.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit093w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="35" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Frutinhas</nome>
+        <descricao>Maçã, laranja, banana...alegram o pote de vidro.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit092w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="34" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pote para bolacha</nome>
+        <descricao>Pote de vidro revestido com biscuit para bolachas.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit091w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="33" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pucca</nome>
+        <descricao>Essa fofinha tinha que ganhar um pote personalizado.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit090w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="32" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pucca</nome>
+        <descricao>Pote personalizado com a Pucca e no coração a inicial da dona do pote.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit089w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="31" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Saleiro com rosas</nome>
+        <descricao>Saleiro em acrílico decorado com rosas vermelhas.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit088w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="30" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Direto pra Itália</nome>
+        <descricao>Saleiro personalizado com as cores verde e vermelho.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit087w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="29" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pote de pimenta</nome>
+        <descricao>em biscuit para colocar condimentos decorado com pimentas.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit086w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="28" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pimentas para Itália</nome>
+        <descricao>atravessaram o Atlântico para darem um toque especial.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit085w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="27" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Doces e bolachas</nome>
+        <descricao>potes personalizados a pedido da cliente.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit083w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="26" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Será que estão me vendo?</nome>
+        <descricao>Menino tentando pegar uma ou mais bolachas.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit082w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="25" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pote de bolacha</nome>
+        <descricao>Menino com roupa do time, tampa com bolachas em biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit081w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="24" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Delicadeza</nome>
+        <descricao>as flores no mesmo tom do rótulo com miolo da cor da letra.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit080w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="23" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Menina no pote de doce</nome>
+        <descricao>sentada entre balas, doces e confetes...fazendo a festa.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit079w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="22" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Natal</nome>
+        <descricao>Pote de vidro recebe tampa com massa de biscuit e um lindo boneco-de-neve.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit001w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Natal</titulo>
+        <imgdestaque>Biscuit/Pote/alemdopapainoelw.jpg</imgdestaque>
+        <descricao>Pote de vidro recebe tampa envolvida com massa de biscuit e pano com formas natalinas.&lt;br&gt;&lt;br&gt;Em cima, um lindo boneco-de-neve, uma árvore de Natal e muitos presentinhos.</descricao>
+        <imagem>Biscuit/Pote/flashbiscuit001w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="21" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Morangos</nome>
+        <descricao>Pote de vidro com tampa decorativa de morangos e folhas</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit007w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="20" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Japão</nome>
+        <descricao>Pote de vidro com japonesa convidando para um delicioso chá-da-tarde.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit008w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="19" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Melado</nome>
+        <descricao>Pote de vidro coberto de 'mel', com tampa de ursinho.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit009w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="18" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Formiguinha</nome>
+        <descricao>Açucareiro com tampa imitando flocos e saquinho de açúcar.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit010w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="17" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Rosas</nome>
+        <descricao>Pote de vidro com tampa revestida de biscuit e decorada com flores.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit011w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="16" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Gulosa</nome>
+        <descricao>Pote de doces com 'pés' e tampa revestida em forma de garotinha.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit013w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="15" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Mestre-cuca</nome>
+        <descricao>Cozinheiro se transforma em tampa de pote de condimentos.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit014w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="14" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Carinhas</nome>
+        <descricao>Pote de vidro com tampa decorada em forma de bolachas</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit035w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Hummm...</titulo>
+        <imgdestaque>Biscuit/Pote/potedebolachasw.jpg</imgdestaque>
+        <descricao>A qualquer hora, nada melhor do que algumas bolachas: doces ou salgadas, de chocolate ou água e sal.&lt;br&gt;&lt;br&gt;E para guardar suas delícias, nada melhor do que um pote de vidro decorado com biscuit.</descricao>
+        <imagem>Biscuit/Pote/flashbiscuit035w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="13" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Au-Au</nome>
+        <descricao>Pote de vidro com tampa de biscuit para guardar a ração do cãozinho.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit036w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Au-Au</titulo>
+        <imgdestaque>Biscuit/Pote/paraocaozinhow.jpg</imgdestaque>
+        <descricao>Tem animal de estimação? Que tal um pote de vidro para guardar a 'comidinha' que seja igual a ele?&lt;br&gt;&lt;br&gt;Este pote de ração é da Mel, uma linda labrador amarela que adora um ossinho?</descricao>
+        <imagem>Biscuit/Pote/flashbiscuit036w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="12" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Rosas de ouro</nome>
+        <descricao>Pote de vidro com tampa decorada com biscuit pintado.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit040w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="11" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bolachas</nome>
+        <descricao>Pote de vidro decorado com biscuit em formato de biscoitos.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit052w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="10" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Saleiro</nome>
+        <descricao>Pote plástico resistente enfeitado com biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit053w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Sal</titulo>
+        <imgdestaque>Biscuit/Pote/temperodavidaw.jpg</imgdestaque>
+        <descricao>Saleiro em acrílico decorado em biscuit.&lt;br&gt;&lt;br&gt;O sal recebe as rosas e joaninhas como companhia.</descricao>
+        <imagem>Biscuit/Pote/flashbiscuit053w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Palhacinho</nome>
+        <descricao>Baleiro de vidro e tampa enfeitados com biscuit. Coleção circo.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit057w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Muuuu</nome>
+        <descricao>Pote de vidro com tampa enfeitada em biscuit para guardar leite em pó.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit058w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bolachas e rosas</nome>
+        <descricao>Pote de vidro com tampa revestida de biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit072w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Conjunto para cozinha</nome>
+        <descricao>Pote de vidro e saleiro de plástico resistente.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit073w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bebê-polvo</nome>
+        <descricao>Pote de vidro (papinha de nenê) com tampa em biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit074w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cogumelo</nome>
+        <descricao>Pote de vidro totalmente revestido com biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit075w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Delícias</titulo>
+        <imgdestaque>Biscuit/Pote/cogumelow.jpg</imgdestaque>
+        <descricao>Pote de vidro e tampa de ferro totalmente revestidos de biscuit.&lt;br&gt;&lt;br&gt;Em formato de cogumelo, com flores, folhas e borboletas para alegrar!</descricao>
+        <imagem>Biscuit/Pote/flashbiscuit075w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Hoje tem palhaçada? Tem sim, senhor</nome>
+        <descricao>Pote de vidro revestido com biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit076w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Coelhinho, o que trazes pra mim? </nome>
+        <descricao>Pote de vidro com tampa em biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit077w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pote de açúcar</nome>
+        <descricao>Pote de vidro com tampa e rótulo em biscuit.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit078w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

@@ -1,0 +1,229 @@
+@charset "utf-8";
+
+/* CSS Document */
+body {
+	background-color: #FEE2E8;
+	font-family: Verdana, Arial, "Lucida Grande", "Lucida Sans Unicode", Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	text-align: center;
+	color: #D02849;
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+div.divLogo {
+	/*background: url(../index/logo.jpg) left top repeat-y;  #;*/
+	background: #D02849;
+	height: 85px;
+	width: 995px;
+	margin-top: 8px;
+	margin-bottom: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:left;	
+}
+
+div.divBarra {
+	background: #FFAAB4;
+	height: 23px;
+	width: 995px;
+	margin-bottom: 5px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:right;
+}
+
+div.divMapa {
+	background: #FFAAB4;
+	display: table;
+	float: left;
+	height: 21px;
+	font-family: Verdana, Arial, 'Lucida Grande', 'Lucida Sans Unicode', Helvetica, sans-serif;
+	color: #D02849;
+	font-size: 14px;
+	padding-top: 2px;
+	font-weight: normal;
+}
+div.divMapa a:link, a:visited, a:hover {
+	color: #D02849;
+	text-decoration: underline;
+	border: 0;
+}
+
+div.divLinks {
+	background: #FFAAB4;
+	display: table;
+	margin-right: 6px;			
+	float: right;	
+	height: 23px;		
+	text-align: right;
+}
+
+/* Faz parte do css antigo */
+
+p,h1,form,button {
+	border: 0;
+	margin: 0;
+	padding: 0;
+}
+
+a:link,a:visited,a:hover {
+	color: #D02849;
+	text-decoration: none;
+	border: 0;
+}
+/* -- lista -- */
+span.labelnome {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+span.labeldescricao {
+	font-size: 14px;
+	font-weight: normal;
+}
+
+div.descricao {
+	display: block;
+	width: 218px;
+	float: center;
+	text-align: left;
+	height: 80px;
+	min-height: 80px;
+}
+div.lista{
+	background: #FFAAB4;
+	display: table;
+	padding-top: 13px;
+	max-width: 995px;
+	margin: 0 auto;	
+	position: relative;
+	padding-left: 2px;
+}
+div.conteudolista {
+	display: block;
+	float: left;
+	/*padding-bottom: 8px;*/
+	/*padding-top: 10px;*/
+	padding-right: 14px;
+	padding-left: 15px;
+	text-align: center;
+}
+img.watermark {
+	display: block;
+	/*position: absolute;*/
+	position: relative;
+	bottom: 277px; /*old 259px*/
+	/*padding-top: 25px;*/
+	left: 150px; /*old 150px*/
+}
+div.rodape{
+	width: 995px;
+	margin: 0 auto;	
+}
+#divCategorias{
+	background: #FFAAB4;
+	display: table;
+	width: 995px;
+	margin: 0 auto;	
+	position: relative;
+}
+#divInfo {
+	border: 0;
+	padding-top: 10px;
+	margin-left: 12%;
+}
+#divBtnPaginacao {
+	margin-left: 433px;
+}
+#divSite{
+	width: 995px;
+	max-width: 995px;
+	margin: 0 auto;	
+	text-align: left;
+}
+/* -- fim-lista -- */
+/* -- destaque -- */
+
+span.titulo {
+	color: #FFAAB4;
+	font-size: 17px;
+	font-weight: bold;
+}
+span.descricaodestaque {
+	color: #D02849;
+	font-size: 17px;
+	text-align: justify;
+}
+#divSubDestaque {
+	height: 300px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 5px;
+	width: 995px;
+	text-align: center;
+}
+div.destaque{
+	height: 300px;
+	background: #FFFFFF;
+	float: left;
+	text-align: left;	
+}
+#divDestaque{
+	height: 300px;
+	background: #FFFFFF;
+	float: left;
+	text-align: left;	
+}
+div.contato{
+	margin-left: 10px;
+	height: 300px;
+	width: 250px;
+	float: left;
+}
+div.imgdestaque{
+	width: 359px;
+	float: left;
+}
+div.central {
+	width: 350px;
+	margin-left: 359px;
+	padding-top: 20px;
+	padding-left: 20px;
+	height: 100%;
+	position: relative;
+}
+
+div.botDestaque{
+	position: absolute;
+	right: 1px;	
+	margin-top: 5px;
+}
+/* -- fim-destaque -- */
+
+/* -- diversos -- */
+.clear {
+	clear: both;
+}
+.smallspacer {
+	height: 1px;
+}
+.bigspacer {
+	height: 5px;
+}
+.doublespacer {
+	height: 10px;
+}
+/* -- fim-diversos -- */
+/* -- mudança de site -- */
+#centro {
+	width:700px;
+	height:85px;
+	position:absolute;
+	top:20%;
+	left:50%;
+	margin-top:-60px;
+	margin-left:-350px;
+}

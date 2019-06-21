@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="5" ativo="true" destaque="true" detalhe="false" miniatura="false">
+      <miniatura />
+      <destaque>
+        <titulo>Seção Biscuit</titulo>
+        <imgdestaque>Biscuit/oquevocedesejaw.jpg</imgdestaque>
+        <descricao>Agora, a seção de biscuit está subdividida em quatro partes:&lt;br&gt;&lt;br&gt;-Natal;&lt;br&gt; -Lembrancinhas;&lt;br&gt; -Potes em geral;&lt;br&gt; -Personalizados.</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit087w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Natal</nome>
+        <descricao>Aqui você encontra tudo para o seu Natal mais feliz.</descricao>
+        <imagem>Biscuit/Natal/tumbbiscuit016w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Natal</titulo>
+        <imgdestaque>Biscuit/Natal/alemdopapainoelw.jpg</imgdestaque>
+        <descricao>Pote de vidro recebe tampa envolvida com massa de biscuit e pano com formas natalinas.&lt;br&gt;&lt;br&gt;Em cima, um lindo boneco-de-neve, uma árvore de Natal e muitos presentinhos.</descricao>
+        <imagem>Biscuit/Natal/flashbiscuit001w.jpg</imagem>
+      </destaque>
+      <detalhe>
+        <endereco>natal</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Lembrancinhas</nome>
+        <descricao>Nesta seção, encontra tudo para aniversários e nascimentos.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit095w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Bi-Bi!</titulo>
+        <imgdestaque>Biscuit/Lembrancinha/fusquinhaw.jpg</imgdestaque>
+        <descricao>Quer uma lembrancinha linda, além de muito original, para o nascimento ou aniversário do seu bebê?&lt;br&gt;&lt;br&gt;Que tal um fusquinha feito em biscuit com porta-recado e o nome na plaquinha?</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit054w.jpg</imagem>
+      </destaque>
+      <detalhe>
+        <endereco>lembrancas</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Potes</nome>
+        <descricao>Aqui você encontra todos os tipos de potes para guardar o que quiser.</descricao>
+        <imagem>Biscuit/Pote/tumbbiscuit098w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe>
+        <endereco>potes</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Personalizados</nome>
+        <descricao>Topos de bolo e presentes personalizados.</descricao>
+        <imagem>Biscuit/Presentinho/tumbbiscuit127w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Biju</titulo>
+        <imgdestaque>Biscuit/Presentinho/gaveteirow.jpg</imgdestaque>
+        <descricao>Esta caixa de madeira, com interior flocado e decoração em biscuit é ideal para as suas bijus.&lt;br&gt;&lt;br&gt;Por meio das gavetas é possível separar brincos, pulseiras, anéis, colares...</descricao>
+        <imagem>Biscuit/Presentinho/flashbiscuit104w.jpg</imagem>
+      </destaque>
+      <detalhe>
+        <endereco>presentes</endereco>
+      </detalhe>
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

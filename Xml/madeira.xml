@@ -1,0 +1,641 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="69" ativo="true" destaque="false" detalhe="false" miniatura="true" data="04/03/2012">
+      <miniatura>
+        <nome>Café com charme e elegância</nome>
+        <descricao>porta-adoçante com decoupage e rosa em porcelana fria (biscuit).</descricao>
+        <imagem>Madeira/tumbmadeira069w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="68" ativo="true" destaque="false" detalhe="false" miniatura="true" data="04/03/2012">
+      <miniatura>
+        <nome>Porta-adoçante</nome>
+        <descricao>detalhes na madeira com corte a laser, a decoupage e o requinte da rosa vermelha em porcelana fria.</descricao>
+        <imagem>Madeira/tumbmadeira068w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="67" ativo="true" destaque="false" detalhe="false" miniatura="true" data="04/03/2012">
+      <miniatura>
+        <nome>Chá da tarde</nome>
+        <descricao>lugar certo para o adoçante para alegrar o chá das cinco horas.</descricao>
+        <imagem>Madeira/tumbmadeira067w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="66" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/09/2011">
+      <miniatura>
+        <nome>Porta-batom</nome>
+        <descricao>caixa personalizada com o nome e detalhes em craquele.</descricao>
+        <imagem>Madeira/tumbmadeira066w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="65" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/09/2011">
+      <miniatura>
+        <nome>Caixa rosa lilás</nome>
+        <descricao>caixa decorada com rosa em porcelana fria.</descricao>
+        <imagem>Madeira/tumbmadeira065w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="64" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/09/2011">
+      <miniatura>
+        <nome>Caixa biju</nome>
+        <descricao>opções de flocado: vermelho, rosa, lilás e marrom.</descricao>
+        <imagem>Madeira/tumbmadeira064w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="63" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/09/2011">
+      <miniatura>
+        <nome>Abajur</nome>
+        <descricao>personalizado com rosa lilás em porcelana fria.</descricao>
+        <imagem>Madeira/tumbmadeira063w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="62" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/09/2011">
+      <miniatura>
+        <nome>Abajur rosa lilás</nome>
+        <descricao>clarear seu ambiente com requinte e delicadeza.</descricao>
+        <imagem>Madeira/tumbmadeira062w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="61" ativo="true" destaque="false" detalhe="false" miniatura="true" data="22/09/2011">
+      <miniatura>
+        <nome>Abajur rosa lilás</nome>
+        <descricao>o branco e o lilás se complementam e harmonizam o ambiente.</descricao>
+        <imagem>Madeira/tumbmadeira061w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="60" ativo="true" destaque="false" detalhe="false" miniatura="true" data="02/09/2011">
+      <miniatura>
+        <nome>Caixa para remédios</nome>
+        <descricao>caixa lilás para guardar remédios. Vidro jateado</descricao>
+        <imagem>Madeira/tumbmadeira060w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="59" ativo="true" destaque="false" detalhe="false" miniatura="true" data="02/09/2011">
+      <miniatura>
+        <nome>Caixa para remédios</nome>
+        <descricao>personalizada com decoupage e biscuit. Lugar certo para guardar comprimidos e xaropes.</descricao>
+        <imagem>Madeira/tumbmadeira059w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="58" ativo="true" destaque="false" detalhe="false" miniatura="true" data="02/09/2011">
+      <miniatura>
+        <nome>Caixa para biju</nome>
+        <descricao>personalizada a cor e a flocagem interna. Iniciais em biscuit.</descricao>
+        <imagem>Madeira/tumbmadeira058w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="57" ativo="true" destaque="false" detalhe="false" miniatura="true" data="02/09/2011">
+      <miniatura>
+        <nome>Porta papel higiênico</nome>
+        <descricao>para decorar seu banheiro com classe.</descricao>
+        <imagem>Madeira/tumbmadeira057w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="56" ativo="true" destaque="false" detalhe="false" miniatura="true" data="02/09/2011">
+      <miniatura>
+        <nome>Porta papel higiênico</nome>
+        <descricao>personalizado a cor e a decoupage.</descricao>
+        <imagem>Madeira/tumbmadeira056w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="55" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Bijuterias</nome>
+        <descricao>caixa marrom para guardar suas bijuterias. A rosa em biscuit pode fazer parte da decoração.</descricao>
+        <imagem>Madeira/tumbmadeira055w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="54" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Caixa para biju marrom</nome>
+        <descricao>caixa flocada com divisórias. Contém anelera.</descricao>
+        <imagem>Madeira/tumbmadeira054w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="53" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Lembrancinhas 15 anos</nome>
+        <descricao>com as iniciais da debujtante na tampa.</descricao>
+        <imagem>Madeira/tumbmadeira053w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="52" ativo="true" destaque="false" detalhe="false" miniatura="true" data="24/07/2011">
+      <miniatura>
+        <nome>Caixa para bijuterias</nome>
+        <descricao>flocado vermelho, rosa, lilás e marrom.</descricao>
+        <imagem>Madeira/tumbmadeira052w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="51" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Tô dodói em azul</nome>
+        <descricao>Caixa para remédios personalizada para o lucas.</descricao>
+        <imagem>Madeira/tumbmadeira051w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="50" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Xarope de alegria e gotas de amor</nome>
+        <descricao>utilizo em todos os meus trabalhos.</descricao>
+        <imagem>Madeira/tumbmadeira050w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="49" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Detalhes</nome>
+        <descricao>decoupage com detalhes da farmacinha – azul ou rosa.</descricao>
+        <imagem>Madeira/tumbmadeira049w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="48" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixa de remédios</nome>
+        <descricao>gaveta com seis divisórias para guardar comprimidos e etc.</descricao>
+        <imagem>Madeira/tumbmadeira048w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="47" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Branco e preto</nome>
+        <descricao>porta-retrato na versão branca e preta.</descricao>
+        <imagem>Madeira/tumbmadeira047w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="46" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Conjunto clássico</nome>
+        <descricao>porta-retrato e Porta-controle em preto.</descricao>
+        <imagem>Madeira/tumbmadeira046w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="45" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-controle</nome>
+        <descricao>decoupage personalizada – sua vida em filme.</descricao>
+        <imagem>Madeira/tumbmadeira045w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="44" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-controle com suas fotos</nome>
+        <descricao>filme da sua vida na decoupage.</descricao>
+        <imagem>Madeira/tumbmadeira044w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="43" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-controle time</nome>
+        <descricao>personalizado de acordo com o time.</descricao>
+        <imagem>Madeira/tumbmadeira043w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="42" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-controle Gê</nome>
+        <descricao>este feito há quatro mãos- pela Gê e por mim.</descricao>
+        <imagem>Madeira/tumbmadeira042w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="41" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-batom</nome>
+        <descricao>chique e elegante, parte interna flocada em preto.</descricao>
+        <imagem>Madeira/tumbmadeira041w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="40" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-batom AMB</nome>
+        <descricao>encomenda personalizada para presentear Ana Maria Braga.</descricao>
+        <imagem>Madeira/tumbmadeira040w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="39" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-batom</nome>
+        <descricao>personalizado com a parte interna flocada em vermelho.</descricao>
+        <imagem>Madeira/tumbmadeira039w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="38" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-batom</nome>
+        <descricao>para guardar com charme seus batons – nove divisórias.</descricao>
+        <imagem>Madeira/tumbmadeira038w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="37" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-batom debutante</nome>
+        <descricao>lembrancinha de 15 anos personalizada para a Tatiane.</descricao>
+        <imagem>Madeira/tumbmadeira037w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="36" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-batom Tetê</nome>
+        <descricao>personalizado o nome ou iniciais, flocado vermelho ou preto.</descricao>
+        <imagem>Madeira/tumbmadeira036w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="35" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-batom Tetê</nome>
+        <descricao>para guardar batons com charme e elegância.</descricao>
+        <imagem>Madeira/tumbmadeira035w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="34" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-batom Tetê</nome>
+        <descricao>para presentear uma amiga ou lembrancinhas de 15 anos.</descricao>
+        <imagem>Madeira/tumbmadeira034w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="33" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixa para remédios</nome>
+        <descricao>Na cor branca com decoupage e biscuit.</descricao>
+        <imagem>Madeira/tumbmadeira033w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="32" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Remédios</nome>
+        <descricao>Gavetas com divisórias para comprimidos e espaço na parte de cima.</descricao>
+        <imagem>Madeira/tumbmadeira032w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="31" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixa para Remédios</nome>
+        <descricao>Comprimidos, caixas, tudo no seu devido lugar.</descricao>
+        <imagem>Madeira/tumbmadeira031w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="30" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Tô dodói</nome>
+        <descricao>Gavetas com divisórias para comprimidos e espaço na parte de cima.</descricao>
+        <imagem>Madeira/tumbmadeira030w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="29" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Tô dodói</nome>
+        <descricao>Gavetas com divisórias para comprimidos e espaço na parte de cima.</descricao>
+        <imagem>Madeira/tumbmadeira029w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="28" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Tô dodói</nome>
+        <descricao>Gavetas com divisórias para comprimidos e espaço na parte de cima.</descricao>
+        <imagem>Madeira/tumbmadeira028w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Tô dodói</titulo>
+        <imgdestaque>Madeira/farmacinhaw.jpg</imgdestaque>
+        <descricao>Nada mais chato do que procurar comprimidos, xarope, termômetro e não achar...&lt;br&gt;&lt;br&gt;... Caixa com gaveta com decoupage e biscuit para organizar sua farmacinha.</descricao>
+        <imagem>Madeira/flashmadeira028w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="27" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Farmacinha</nome>
+        <descricao>Caixa para remédios com decoupage e biscuit.</descricao>
+        <imagem>Madeira/tumbmadeira027w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="26" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Farmácia</nome>
+        <descricao>Gavetas com divisórias para comprimidos e espaço na parte de cima.</descricao>
+        <imagem>Madeira/tumbmadeira026w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="25" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-treco</nome>
+        <descricao>Caixa com divisórias na gaveta e amplo espaço na parte de cima.</descricao>
+        <imagem>Madeira/tumbmadeira025w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="24" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixa de remédios Lilás</nome>
+        <descricao>Caixa com decoupage e biscuit.</descricao>
+        <imagem>Madeira/tumbmadeira024w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="23" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixa Remédios</nome>
+        <descricao>Visor em vidro jateado escrito Remédios.</descricao>
+        <imagem>Madeira/tumbmadeira023w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="22" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixa Remédios</nome>
+        <descricao>Caixa personalizada com as iniciais do casal.</descricao>
+        <imagem>Madeira/tumbmadeira022w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="21" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Gotas de amor</nome>
+        <descricao>Gavetas com divisórias para comprimidos e espaço na parte de cima.</descricao>
+        <imagem>Madeira/tumbmadeira021w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="20" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caixa Remédios</nome>
+        <descricao>Visor em vidro jateado com nome remédios.</descricao>
+        <imagem>Madeira/tumbmadeira020w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="19" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cômoda porta-biju</nome>
+        <descricao>Na cor branca quatro gavetas flocadas com divisórias.</descricao>
+        <imagem>Madeira/tumbmadeira019w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="18" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cômoda porta-biju</nome>
+        <descricao>Divisórias para anéis, brincos e correntes.</descricao>
+        <imagem>Madeira/tumbmadeira018w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Biju</titulo>
+        <imgdestaque>Madeira/gaveteirow.jpg</imgdestaque>
+        <descricao>Esta caixa de madeira, com interior flocado é ideal para as suas bijus.&lt;br&gt;&lt;br&gt;Por meio das gavetas é possível separar brincos, pulseiras, anéis, colares...</descricao>
+        <imagem>Madeira/flashmadeira018w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="17" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta controle remoto</nome>
+        <descricao>Flocado por dentro e com fotos de filmes ou suas.</descricao>
+        <imagem>Madeira/tumbmadeira017w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Antiguidade?</titulo>
+        <imgdestaque>Madeira/semperderocontrolew.jpg</imgdestaque>
+        <descricao>Porta controle remoto de madeira flocado comporta até três unidades.&lt;br&gt;&lt;br&gt;Com decoupage de filmes antigos ou, se preferir com suas fotos.</descricao>
+        <imagem>Madeira/flashmadeira017w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="16" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Falso couro</nome>
+        <descricao>Caixa de madeira decoupada com coador de café. 18x8cm.</descricao>
+        <imagem>Madeira/tumbmadeira016w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="15" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vidro</nome>
+        <descricao>Caixa de madeira manchada com tampa com vitrificação. Mede 12x12cm.</descricao>
+        <imagem>Madeira/tumbmadeira015w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="14" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-chave</nome>
+        <descricao>Com seis ganchos e espaço para correspondência.</descricao>
+        <imagem>Madeira/tumbmadeira014w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="13" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-guardanapos</nome>
+        <descricao>Com formato triangular, pintado com tinta plástica e glitter.</descricao>
+        <imagem>Madeira/tumbmadeira013w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="12" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-chá</nome>
+        <descricao>Tampa de vidro craquelada em dourado e decoupage, mede 20x20cm.</descricao>
+        <imagem>Madeira/tumbmadeira012w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="11" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bodas</nome>
+        <descricao>Caixa com divisória para chás e decoupage em 3D, mede 25x30cm.</descricao>
+        <imagem>Madeira/tumbmadeira011w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="10" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Borboleta</nome>
+        <descricao>Tampa com decoupage e vidro líquido, mede 8,5x16,5cm.</descricao>
+        <imagem>Madeira/tumbmadeira010w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Hexágono</nome>
+        <descricao>Tampa com decoupage manchada com gel, tem 18cm de diâmetro.</descricao>
+        <imagem>Madeira/tumbmadeira009w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Porta-jóias</nome>
+        <descricao>Caixa com craquelado e decoupage, mede 16x15cm.</descricao>
+        <imagem>Madeira/tumbmadeira008w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Ballet</nome>
+        <descricao>Caixa com tampa texturizada e bailarina em resina, mede 10x10cm.</descricao>
+        <imagem>Madeira/tumbmadeira007w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Margarida</nome>
+        <descricao>Caixa com tampa com decoupage em 3D, mede 10x10cm.</descricao>
+        <imagem>Madeira/tumbmadeira006w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Bodas-de-pérola</nome>
+        <descricao>Caixa para chá com decoupage, mede 25x30cm.</descricao>
+        <imagem>Madeira/tumbmadeira005w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Tulipas</nome>
+        <descricao>Caixa manchada com filme e decoupage, mede 10x10x15cm.</descricao>
+        <imagem>Madeira/tumbmadeira004w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Vinho</nome>
+        <descricao>Caixa tampada para garrafa com decoupage sobre manchado.</descricao>
+        <imagem>Madeira/tumbmadeira003w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Chás</nome>
+        <descricao>Caixa com divisórias e tampa de vidro com decoupage, mede 20x25cm.</descricao>
+        <imagem>Madeira/tumbmadeira002w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Harmonia</nome>
+        <descricao>Caixa fechada com toque especial em bordô, mede 12x21cm.</descricao>
+        <imagem>Madeira/tumbmadeira001w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

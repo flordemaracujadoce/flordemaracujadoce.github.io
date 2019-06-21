@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="25" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Frio intenso</nome>
+        <descricao>Cachecol em tear com lã especial na cor outono-inverno.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico025w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="24" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Flores brancas</nome>
+        <descricao>Cachecol em crochê com lã branca e linha prateada.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico024w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="23" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Rosas</nome>
+        <descricao>Cachecol em tricô e rosas em crochê nas cores rosa claro e branco.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico023w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="22" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Verde mesclado</nome>
+        <descricao>Cachecol em tricô com lã verde e linha verde, bege e branca.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico022w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Outono</titulo>
+        <imgdestaque>Crocheetrico/cordaestacaooutonow.jpg</imgdestaque>
+        <descricao>Cachecol em tricô com lã verde-musgo e linha mesclada verde, branca e bege.&lt;br&gt;&lt;br&gt;Com franja e flor feita em crochê.</descricao>
+        <imagem>Crocheetrico/flashcrocheetrico022w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="21" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Roxo</nome>
+        <descricao>Cachecol em tricô com flor em crochê nas cores roxo e lilás.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico021w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="20" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Uva</nome>
+        <descricao>Cachecol em tricô com flor em crochê nas cores roxo e azul-claro.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico020w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="19" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Presílha, broche ou enfeite</nome>
+        <descricao>Flores em crochê em diversas cores.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico019w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="18" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Presílha, broche ou enfeite</nome>
+        <descricao>Flores em crochê na cor marrom.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico018w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="17" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Presílha, broche ou enfeite</nome>
+        <descricao>Flores em crochê na cor laranja.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico017w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="16" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Presílha, broche ou enfeite</nome>
+        <descricao>Flores em crochê na cor branca.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico016w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="15" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Presílha, broche ou enfeite</nome>
+        <descricao>Flores em crochê na cor vermelha.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico015w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="14" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Presílha, broche ou enfeite</nome>
+        <descricao>Flores feitas em crochê na cor preta.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico014w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="13" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Presílha, broche ou enfeite</nome>
+        <descricao>Flores feitas em crochê na cor verde-musgo.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico013w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="12" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Céu</nome>
+        <descricao>Cachecol em tricô com lã mesclada e flor em crochê.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico012w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="11" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Pequenino</nome>
+        <descricao>Cachecol em tricô com flor em crochê para criança.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico011w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="10" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Preto e prata</nome>
+        <descricao>Cachecol em tricô com lã preta e fios prateados.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico010w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Preto e dourado</nome>
+        <descricao>Cachecol em tricô com lã preta e fios dourados.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico009w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Outono</nome>
+        <descricao>Cachecol em tricô na cor marrom escuro e com flor bege.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico008w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Encharpe</nome>
+        <descricao>Para o friozinho da noite, nada melhor do que um encharpe de crochê.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico007w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Fogo</nome>
+        <descricao>Cachecol com franja em crochê. Detalhe com flor nas pontas.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico006w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Cor-do-mar</nome>
+        <descricao>Cachecol em crochê com franja e flor nas pontas.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico005w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Roxo</nome>
+        <descricao>Cachecol com franja e desenho nas pontas, tudo em crochê.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico004w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Básico</nome>
+        <descricao>E chique. Cachecol em tricô nas cores branca e prata, além de uma flor.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico003w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Inverno</titulo>
+        <imgdestaque>Crocheetrico/brancoeprataw.jpg</imgdestaque>
+        <descricao>Cachecol com franjas feitos em tricô, com três fios: dois brancos e um prateado.&lt;br&gt;&lt;br&gt;Como toque especial, uma linda flor presa com uma pérola.</descricao>
+        <imagem>Crocheetrico/flashcrocheetrico003w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Mistura</nome>
+        <descricao>Cachecol com franja em tricô, nas cores vermelha e rosa, mais flor.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico002w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Terra</nome>
+        <descricao>Cachecol com franja em crochê, nas cores marrom, bege e branca.</descricao>
+        <imagem>Crocheetrico/tumbcrocheetrico001w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

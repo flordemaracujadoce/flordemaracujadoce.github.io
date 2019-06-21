@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<mapasite>
+	<link id="home" ativo="true">
+		<nome>Home</nome>
+		<endereco>home</endereco>
+		<anterior></anterior>
+	</link>
+	<link id="bebes" ativo="true">
+		<nome>Bebê</nome>
+		<endereco>bebes</endereco>
+		<anterior>home</anterior>
+	</link>
+	<link id="casamento" ativo="true">
+		<nome>Casamento</nome>
+		<endereco>casamento</endereco>
+		<anterior>home</anterior>
+	</link>
+	<link id="biscuit" ativo="true">
+		<nome>Biscuit</nome>
+		<endereco>biscuit</endereco>
+		<anterior>home</anterior>
+	</link>
+		<link id="natal" ativo="true">
+			<nome>Natal</nome>
+			<endereco>natal</endereco>
+			<anterior>biscuit</anterior>
+		</link>
+		<link id="lembrancas" ativo="true">
+			<nome>Lembrancinhas</nome>
+			<endereco>lembrancas</endereco>
+			<anterior>biscuit</anterior>
+		</link>
+		<link id="potes" ativo="true">
+			<nome>Potes</nome>
+			<endereco>potes</endereco>
+			<anterior>biscuit</anterior>
+		</link>		
+		<link id="presentes" ativo="true">
+			<nome>Personalizados</nome>
+			<endereco>presentes</endereco>
+			<anterior>biscuit</anterior>
+		</link>		
+	<link id="madeira" ativo="true">
+		<nome>Madeira</nome>
+		<endereco>madeira</endereco>
+		<anterior>home</anterior>
+	</link>
+	<link id="crocheetrico" ativo="true">
+		<nome>Crochê e Tricô</nome>
+		<endereco>crocheetrico</endereco>
+		<anterior>home</anterior>
+	</link>
+	<link id="pintura" ativo="true">
+		<nome>Pintura</nome>
+		<endereco>pintura</endereco>
+		<anterior>home</anterior>
+	</link>
+	<link id="quemsou" ativo="true">
+		<nome>Conheça a Flor de Maracujá Doce</nome>
+		<endereco>quemsou</endereco>
+		<anterior>home</anterior>
+	</link>
+	<link id="formulario.html" ativo="true">
+		<nome>Entre em Contato</nome>
+		<endereco>formulario.html</endereco>
+		<anterior>home</anterior>
+	</link>	
+</mapasite>

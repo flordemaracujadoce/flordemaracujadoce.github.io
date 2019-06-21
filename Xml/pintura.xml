@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="9" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Copos-de-leite</nome>
+        <descricao>Pintura a óleo com moldura em madeira, mede 40x60cm.</descricao>
+        <imagem>Pintura/tumbpintura015w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="8" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Convite</nome>
+        <descricao>Pintura a óleo convida o expectador a paz, mede 30x40cm.</descricao>
+        <imagem>Pintura/tumbpintura014w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="7" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Caminho</nome>
+        <descricao>Pintura a óleo retrata paisagem bucólica, mede 40x60cm.</descricao>
+        <imagem>Pintura/tumbpintura013w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="6" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Entardecer</nome>
+        <descricao>Pintura a óleo de um fim de tarde próximo ao mar, mede 50x70cm.</descricao>
+        <imagem>Pintura/tumbpintura012w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="5" ativo="true" destaque="true" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Paisagem</nome>
+        <descricao>Pintura a óleo da paisagem interiorana, mede 30x40cm.</descricao>
+        <imagem>Pintura/tumbpintura011w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Caminho</titulo>
+        <imgdestaque>Pintura/paisagemdointeriorw.jpg</imgdestaque>
+        <descricao>Pintura a óleo sobre tela. Esse painel retrata a vida no interior, com uma pequena casa e com muito verde.&lt;br&gt;&lt;br&gt;Esse painel mede 30x40cm.</descricao>
+        <imagem>Pintura/flashpintura005w.jpg</imagem>
+      </destaque>
+      <detalhe />
+    </artesanato>
+    <artesanato id="4" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Florido</nome>
+        <descricao>Pintura a óleo de um dia da Primavera, mede 30x40cm.</descricao>
+        <imagem>Pintura/tumbpintura010w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Restauração</nome>
+        <descricao>Decoupage, biscuit e pintura da capela de oração da N. S. da Paz.</descricao>
+        <imagem>Pintura/tumbpintura009w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Casca de ovo</nome>
+        <descricao>Pote de vidro com tampa decorada com casca de ovo.</descricao>
+        <imagem>Pintura/tumbpintura008w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="false" detalhe="false" miniatura="true">
+      <miniatura>
+        <nome>Morangos</nome>
+        <descricao>Pote de vidro jateado com areia e pintura de morangos e flores.</descricao>
+        <imagem>Pintura/tumbpintura007w.jpg</imagem>
+      </miniatura>
+      <destaque />
+      <detalhe />
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>

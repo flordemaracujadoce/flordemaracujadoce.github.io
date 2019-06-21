@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Artesanatos xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ListaArtesanatos>
+    <artesanato id="4" ativo="true" destaque="true" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Bebê</nome>
+        <descricao>Nasceu, e agora? Nesta seção, você encontra tudo para seu bebê!</descricao>
+        <imagem>Biscuit/Bebe/tumbbiscuit132w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Seção Biscuit</titulo>
+        <imgdestaque>Biscuit/oquevocedesejaw.jpg</imgdestaque>
+        <descricao>Agora, a seção de biscuit está subdividida em quatro partes:&lt;br&gt;&lt;br&gt;-Natal;&lt;br&gt; -Lembrancinhas;&lt;br&gt; -Potes em geral;&lt;br&gt; -Personalizados.</descricao>
+        <imagem>Biscuit/Lembrancinha/flashbiscuit087w.jpg</imagem>
+      </destaque>
+      <detalhe>
+        <endereco>bebes</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="3" ativo="true" destaque="true" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Biscuit</nome>
+        <descricao>Agora a seção de biscuit está subdividida em quatro partes. Confira.</descricao>
+        <imagem>Biscuit/Lembrancinha/tumbbiscuit087w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Seção Bebê</titulo>
+        <imgdestaque>Biscuit/Bebe/boasvindasw.jpg</imgdestaque>
+        <descricao>Você está grávida!!!&lt;br&gt;&lt;br&gt;Vamos preparar o kit bebê, o porta maternidade, livro presença e lembrancinhas para receber essa criança que veio iluminar sua vida!</descricao>
+        <imagem>Biscuit/Bebe/flashbiscuit112w.jpg</imagem>
+      </destaque>
+      <detalhe>
+        <endereco>biscuit</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="2" ativo="true" destaque="true" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Casamento</nome>
+        <descricao>Tudo para seu casamento! Topos de bolo e lembrancinhas!</descricao>
+        <imagem>Biscuit/Casamento/tumbbiscuit040w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Seção Casamento</titulo>
+        <imgdestaque>Biscuit/Casamento/ahoradosimw.jpg</imgdestaque>
+        <descricao>...o amor os uniu... A hora do sim está próxima...&lt;br&gt;&lt;br&gt;Aqui preparamos os noivinhos topo de bolo personalizado, lembrancinhas e sem esquecer do livro presença!</descricao>
+        <imagem>Biscuit/Casamento/flashbiscuit043w.jpg</imagem>
+      </destaque>
+      <detalhe>
+        <endereco>casamento</endereco>
+      </detalhe>
+    </artesanato>
+    <artesanato id="1" ativo="true" destaque="true" detalhe="true" miniatura="true">
+      <miniatura>
+        <nome>Madeira</nome>
+        <descricao>Diversos tipos de caixa decorados com biscuit e decoupage.</descricao>
+        <imagem>Madeira/tumbmadeira023w.jpg</imagem>
+      </miniatura>
+      <destaque>
+        <titulo>Seção Madeira</titulo>
+        <imgdestaque>Madeira/aondeguardarw.jpg</imgdestaque>
+        <descricao>Caixas são ótimas para organizar o que temos! E caixas personalizadas são um toque de diferença em nossa casa.&lt;br&gt;&lt;br&gt;Visite a seção e personalize uma pra você!</descricao>
+        <imagem>Madeira/flashmadeira022w.jpg</imagem>
+      </destaque>
+      <detalhe>
+        <endereco>madeira</endereco>
+      </detalhe>
+    </artesanato>
+  </ListaArtesanatos>
+</Artesanatos>
