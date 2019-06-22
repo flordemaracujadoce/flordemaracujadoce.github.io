@@ -6,7 +6,7 @@
 		<anterior></anterior>
 	</link>
 	<link id="bebes" ativo="true">
-		<nome>Bebê</nome>
+		<nome>BebÃª</nome>
 		<endereco>bebes</endereco>
 		<anterior>home</anterior>
 	</link>
@@ -46,7 +46,7 @@
 		<anterior>home</anterior>
 	</link>
 	<link id="crocheetrico" ativo="true">
-		<nome>Crochê e Tricô</nome>
+		<nome>CrochÃª e TricÃ´</nome>
 		<endereco>crocheetrico</endereco>
 		<anterior>home</anterior>
 	</link>
@@ -56,7 +56,7 @@
 		<anterior>home</anterior>
 	</link>
 	<link id="quemsou" ativo="true">
-		<nome>Conheça a Flor de Maracujá Doce</nome>
+		<nome>ConheÃ§a a Flor de MaracujÃ¡ Doce</nome>
 		<endereco>quemsou</endereco>
 		<anterior>home</anterior>
 	</link>
