@@ -360,7 +360,4 @@ function continuar(){
   if (document.getElementById("intervalo").value == ""){
     document.getElementById("intervalo").value = setInterval("AtualizaDestaque()",intervalo);
   }
-}    
-function abreformulario(){
-  var teste = window.open('http://flordemaracujadoce.com.br/Formulario/contato.aspx','Contato','top=150,left=250,width=900,height=530,scrollbars=NO,resizable=NO,location=NO');
 }
