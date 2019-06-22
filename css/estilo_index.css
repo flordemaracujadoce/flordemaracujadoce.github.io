@@ -1,6 +1,5 @@
 @charset "utf-8";
 
-/* CSS Document */
 body {
 	background-color: #FEE2E8;
 	font-family: Verdana, Arial, "Lucida Grande", "Lucida Sans Unicode", Helvetica, sans-serif;
@@ -14,7 +13,6 @@ body {
 }
 
 div.divLogo {
-	/*background: url(../index/logo.jpg) left top repeat-y;  #;*/
 	background: #D02849;
 	height: 85px;
 	width: 995px;
@@ -61,8 +59,6 @@ div.divLinks {
 	text-align: right;
 }
 
-/* Faz parte do css antigo */
-
 p,h1,form,button {
 	border: 0;
 	margin: 0;
@@ -74,7 +70,6 @@ a:link,a:visited,a:hover {
 	text-decoration: none;
 	border: 0;
 }
-/* -- lista -- */
 span.labelnome {
 	font-size: 14px;
 	font-weight: bold;
@@ -105,19 +100,15 @@ div.lista{
 div.conteudolista {
 	display: block;
 	float: left;
-	/*padding-bottom: 8px;*/
-	/*padding-top: 10px;*/
 	padding-right: 14px;
 	padding-left: 15px;
 	text-align: center;
 }
 img.watermark {
 	display: block;
-	/*position: absolute;*/
 	position: relative;
-	bottom: 277px; /*old 259px*/
-	/*padding-top: 25px;*/
-	left: 150px; /*old 150px*/
+	bottom: 277px; 
+	left: 150px; 
 }
 div.rodape{
 	width: 995px;
@@ -133,7 +124,7 @@ div.rodape{
 #divInfo {
 	border: 0;
 	padding-top: 10px;
-	margin-left: 12%;
+	text-align: center;
 }
 #divBtnPaginacao {
 	margin-left: 433px;
@@ -144,8 +135,6 @@ div.rodape{
 	margin: 0 auto;	
 	text-align: left;
 }
-/* -- fim-lista -- */
-/* -- destaque -- */
 
 span.titulo {
 	color: #FFAAB4;
@@ -201,9 +190,7 @@ div.botDestaque{
 	right: 1px;	
 	margin-top: 5px;
 }
-/* -- fim-destaque -- */
 
-/* -- diversos -- */
 .clear {
 	clear: both;
 }
@@ -216,8 +203,7 @@ div.botDestaque{
 .doublespacer {
 	height: 10px;
 }
-/* -- fim-diversos -- */
-/* -- mudança de site -- */
+
 #centro {
 	width:700px;
 	height:85px;
@@ -226,4 +212,28 @@ div.botDestaque{
 	left:50%;
 	margin-top:-60px;
 	margin-left:-350px;
+}
+
+a.fa {
+  padding: 15px;
+  font-size: 25px;
+  width: 25px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  border-radius: 50%;
+}
+
+a.fa:hover {
+    opacity: 0.7;
+}
+
+a.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+a.fa-instagram {
+  background: #125688;
+  color: white;
 }
