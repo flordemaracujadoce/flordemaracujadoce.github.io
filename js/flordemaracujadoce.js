@@ -229,7 +229,6 @@ function getCategorias(xmlNode,indpaginacao){
           }                
         }
       }
-      debugger;
       if(fdetalhe == "true" && outrapagina == "true")
       {
         artesanatos += "<a href='" + pagina + "' target='_blank'>";
@@ -240,24 +239,21 @@ function getCategorias(xmlNode,indpaginacao){
       }
       else
       {
-        debugger;
         if (imagem_grande != "" && imagem_grande != null)
           artesanatos += "<a href='" + imagem_grande + "' rel='lightbox[flor]' title='" + nome + ": " + descricao + "'>"; 
         else
           artesanatos += "<a href='" + imagem + "' rel='lightbox[flor]' title='" + nome + ": " + descricao + "'>";   
-        //fdetalhe = false;
       }
       
       artesanatos += "<img src='" + imagem + "' height='199px' border='0'>";      
       artesanatos += "<div class='descricao'><span class='labelnome'>" + nome + ": </span>"
       artesanatos += "<span class='labeldescricao'>" +descricao + "</span></div>";
-      //Marca dagua 25-07-2011 - INI
+
       if (dataimg > datarecente){
         artesanatos += "<img src='index/novo.png' class='watermark' alt='Novo!'>";
       }else{
         artesanatos += "<img src='index/novo.png' class='watermark' alt='Novo!' style='visibility: hidden;'>";
       }
-      //Marca dagua 25-07-2011 - FIM            
       
       if(fdetalhe == "true") 
         artesanatos += "</a>";
