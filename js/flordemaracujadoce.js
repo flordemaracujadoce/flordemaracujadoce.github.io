@@ -112,7 +112,6 @@ function getMapaSite(xmlNode,target)
 function getCategorias(xmlNode,indpaginacao){
   var destaque = new String("");
   var artesanatos = new String("");
-  var aux = new String("");
   var limite = 12;
   var max = 99999;
   var qtd = 0;
@@ -175,9 +174,9 @@ function getCategorias(xmlNode,indpaginacao){
     artesanatos = "<div class='lista'>";
     var qtdregistros = registros.length;
     for(var j=0;j<qtdregistros;j++)
-      artesanatos += "<div id='divConteudo' name='divConteudo' class='conteudolista' style='visibility: hidden;'></div>";
+      artesanatos += "<div id='divConteudo' name='divConteudo' class='conteudolista' style='display: none;'></div>";
     artesanatos += "</div>";
-    artesanatos += "<input type='image' src='index/mais_centro.gif' name='divBtnPaginacao' id='divBtnPaginacao' style='visibility: hidden; height: 1px; width: 1px;' onclick='javascript:paginar()' />"
+    artesanatos += "<input type='image' src='index/mais_centro.gif' name='divBtnPaginacao' id='divBtnPaginacao' style='display: none; height: 1px; width: 1px;' onclick='javascript:paginar()' />"
     document.getElementById("divCategorias").innerHTML = artesanatos;
   }
   
@@ -252,7 +251,7 @@ function getCategorias(xmlNode,indpaginacao){
       if (dataimg > datarecente){
         artesanatos += "<img src='index/novo.png' class='watermark' alt='Novo!'>";
       }else{
-        artesanatos += "<img src='index/novo.png' class='watermark' alt='Novo!' style='visibility: hidden;'>";
+        artesanatos += "<img src='index/novo.png' class='watermark' alt='Novo!' style='display: none;'>";
       }
       
       if(fdetalhe == "true") 
@@ -262,7 +261,7 @@ function getCategorias(xmlNode,indpaginacao){
       for(var j=0;j<divs.length;j++){
         if(divs[j].innerHTML == ""){
           divs[j].innerHTML = artesanatos;
-          divs[j].style.visibility="visible";
+          divs[j].style.display="initial";
           break;
         }
       }            
@@ -273,11 +272,11 @@ function getCategorias(xmlNode,indpaginacao){
   qtdfinal++;
   if(registros[qtdfinal] != null){
     document.getElementById("indpaginacao").value = registros[qtdfinal].getAttribute('id');
-    document.getElementById("divBtnPaginacao").style.visibility="visible";
+    document.getElementById("divBtnPaginacao").style.display="initial";
     document.getElementById("divBtnPaginacao").style.height="47px";
     document.getElementById("divBtnPaginacao").style.width="129px";
   }else{
-    document.getElementById("divBtnPaginacao").style.visibility="hidden";        
+    document.getElementById("divBtnPaginacao").style.display="none";        
     document.getElementById("divBtnPaginacao").style.height="1px";
     document.getElementById("divBtnPaginacao").style.width="1px";      
   }
