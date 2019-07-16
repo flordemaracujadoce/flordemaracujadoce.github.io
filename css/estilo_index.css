@@ -224,6 +224,11 @@ div.botDestaque {
   margin-left: -350px;
 }
 
+.imgartes {
+  height: 199px;
+  border: 0px;
+}
+
 a.fa {
   padding: 15px;
   font-size: 25px;
@@ -370,8 +375,10 @@ a.fa-instagram {
     height: 218px;
   }
 
-  a.fa {
-    display: none;
+  .socialLinks {
+    position: absolute;
+    top: 20px;
+    right: 5px;
   }
 }
 
@@ -414,6 +421,12 @@ a.fa-instagram {
 }
 
 @media (max-width: 784px) {
+  .socialLinks {
+    position: relative;
+    top: 13px;
+    right: 3px;    
+  }
+
   a.fa {
     display: block;
     width: 45px;
@@ -436,24 +449,88 @@ a.fa-instagram {
   }
 }
 
-@media (max-width: 659px) {
-
-  div.central {
-    width: auto;
+@media (max-width: 665px) {
+  .imgartes {
+    height: 180px;
   }
 
-  .central > img {
-    max-width: 250px;
-    height: 30px;
+  span.labelnome {
+    font-size: 12px;
+  }
+  
+  span.labeldescricao {
+    font-size: 12px;
   }
 
-  div.contato {
-    display: none;
+  div.descricao {
+    width: 197px;
+  }
+}
+
+@media (max-width: 653px) {
+
+  .socialLinks {
+    top: 35px;
   }
 
   a.fa {
+    font-size: 20px;
+    width: 20px;
+  }
+
+}
+
+@media (max-width: 628px) {
+  .socialLinks {
+    top: 35px;
+    right: 0px;
+  }
+
+  a.fa {
+    font-size: 12px;
+    width: 12px;
+  }
+}
+
+@media (max-width: 623px) {
+  div.contato {
     display: none;
+  }
+}
+@media (max-width: 603px) {
+  .imgartes {
+    height: 199px;
+  }
+
+  span.labelnome {
+    font-size: 14px;
+  }
+
+  span.labeldescricao {
+    font-size: 14px;
+  }
+
+  div.descricao {
+    width: 218px;
   }  
+}
+
+@media (max-width: 443px) {
+  .imgartes {
+    height: 180px;
+  }
+
+  span.labelnome {
+    font-size: 12px;
+  }
+  
+  span.labeldescricao {
+    font-size: 12px;
+  }
+
+  div.descricao {
+    width: 197px;
+  }
 }
 
 @media (max-width: 520px) {
@@ -462,18 +539,79 @@ a.fa-instagram {
   } 
 }
 
+@media (max-width: 569px) {
+  div.central {
+    width: auto;
+  }
+
+  .central > img {
+    max-width: 230px;
+    height: 40px;
+  }
+}
+
 @media (max-width: 514px) {
   .topo-link {
     margin-right: 0px;
   }
 }
 
+@media (max-width: 449px) {
+  .central > img {
+    max-width: 210px;
+    max-height: 40px;
+  }
+}
+
+@media (max-width: 429px) {
+  .central > img {
+    max-width: 190px;
+    max-height: 40px;
+  }
+}
+
 @media (max-width: 375px) {
-  #divSubDestaque {
-    display: initial;
+  
+  #divDestaque { 
+    display: none;
   }
 
   div.contato {
     display: initial;
+    width: 196px;
+    margin-left: 85px;
+    margin-top: 5px;
+    height: 265px;
   }
+
+  div.contato > a > img {
+    display: initial;
+    height: 205px;
+  }  
+
+  .socialLinks {
+    top: 0px;
+  }  
+
+  a.fa {
+    display: inline-block;
+    font-size: 20px;
+    width: 20px;
+  }  
+
+  .imgartes {
+    height: 199px;
+  }
+
+  span.labelnome {
+    font-size: 14px;
+  }
+  
+  span.labeldescricao {
+    font-size: 14px;
+  }
+
+  div.descricao {
+    width: 218px;
+  }  
 }

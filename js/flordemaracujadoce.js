@@ -238,13 +238,16 @@ function getCategorias(xmlNode,indpaginacao){
       }
       else
       {
+        const $tamTela = $(window).width();
+        const $tamMax = 685;
+
         if (imagem_grande != "" && imagem_grande != null)
-          artesanatos += "<a href='" + imagem_grande + "' rel='lightbox[flor]' title='" + nome + ": " + descricao + "'>"; 
+          artesanatos += "<a href='" + imagem_grande + `' ${$tamTela > $tamMax ? 'rel="lightbox[flor]"' : 'target="_blank"' } title='${nome}:${descricao}'>`; 
         else
-          artesanatos += "<a href='" + imagem + "' rel='lightbox[flor]' title='" + nome + ": " + descricao + "'>";   
+          artesanatos += "<a href='" + imagem + `' ${$tamTela > $tamMax ? 'rel="lightbox[flor]"' : 'target="_blank"' } title='${nome}:${descricao}'>`;   
       }
-      
-      artesanatos += "<img src='" + imagem + "' height='199px' border='0'>";      
+
+      artesanatos += "<img class='imgartes' src='" + imagem + "'>";      
       artesanatos += "<div class='descricao'><span class='labelnome'>" + nome + ": </span>"
       artesanatos += "<span class='labeldescricao'>" +descricao + "</span></div>";
 
