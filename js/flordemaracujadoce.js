@@ -67,8 +67,8 @@ function getDestaques(xmlNode){
   destaque += "<div class='bigspacer'></div><img src='" + imgdestaque + "' border='0'><br>";
   destaque += "<div class='bigspacer'></div><span class='descricaodestaque'>" + descricao + "</span><br>";
   destaque += "<div id='botDestaque' name='botDestaque' class='botDestaque'>";
-  destaque += "<input type='image' src='index/parar.png' onclick='javascript:parar()'>";
-  destaque += "<input type='image' src='index/continuar.png' onclick='javascript:continuar()'>";
+  destaque += "<input class='btnParar' type='image' src='index/parar.png' onclick='javascript:parar()'>";
+  destaque += "<input class='btnContinuar' type='image' src='index/continuar.png' onclick='javascript:continuar()'>";
   destaque += "</div>";
   destaque += "</div></div>";
   
@@ -157,8 +157,8 @@ function getCategorias(xmlNode,indpaginacao){
     destaque += "<div class='bigspacer'></div><span class='descricaodestaque'>" + descricao + "</span><br>";
     if (possuidestaques == 1){
       destaque += "<div id='botDestaque' name='botDestaque' class='botDestaque'>";
-      destaque += "<input type='image' src='index/parar.png' onclick='javascript:parar()'>";
-      destaque += "<input type='image' src='index/continuar.png' onclick='javascript:continuar()'>";
+      destaque += "<input class='btnParar' type='image' src='index/parar.png' onclick='javascript:parar()'>";
+      destaque += "<input class='btnContinuar' type='image' src='index/continuar.png' onclick='javascript:continuar()'>";
       destaque += "</div>";
     }
     destaque += "</div></div>";
