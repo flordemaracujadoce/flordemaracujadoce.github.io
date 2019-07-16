@@ -61,7 +61,6 @@ a:hover {
 div.divLinks {
   background: #ffaab4;
   display: table;
-  margin-right: 6px;
   float: right;
   height: 23px;
   text-align: right;
@@ -613,5 +612,10 @@ a.fa-instagram {
 
   div.descricao {
     width: 218px;
+  }  
+
+  .topo-link {
+    max-width: 70px;
+    min-height: 23px;
   }  
 }
