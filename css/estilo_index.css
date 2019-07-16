@@ -443,7 +443,7 @@ a.fa-instagram {
   }
 }
 
-@media (max-width: 728px) {
+@media (max-width: 607px) {
   div.divMapa {
     display: none;
   }
