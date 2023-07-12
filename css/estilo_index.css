@@ -176,10 +176,45 @@ div.destaque {
   text-align: left;
 }
 div.contato {
-  margin-left: 10px;
+  margin-left: 5px;
   height: 300px;
-  width: 250px;
+  width: 260px;
   float: left;
+}
+div.contatobox {
+  height: 240px;
+  width: 260px;
+  float: left;
+  border-radius: 5%;
+  background-color: #ffaab4;
+}
+div.contatobox > p {
+  font-size: 16px;
+  text-align: left;
+}
+
+div.contatobox > #encomendas {
+  text-align: left;
+  padding-left: 10px;
+}
+div.contatobox > #duvidas {
+  text-align: center;
+  margin-top: 15px;
+}
+div.contatobox > #sugestoes {
+  text-align: right;
+  margin-top: 15px;
+  padding-right: 5px;
+}
+div.contatobox > #falarcom,#mailcontato {
+  margin-top: 10px;
+  padding-left: 5px;
+  font-size: 13px;
+}
+div.contatobox > #description {
+  font-size: 11px;
+  margin-top: 10px;
+  padding-left: 5px;
 }
 div.imgdestaque {
   width: 359px;
@@ -242,6 +277,11 @@ a.fa:hover {
   opacity: 0.7;
 }
 
+a.fa-envelope {
+  background: #0a446e;
+  color: white;
+}
+
 a.fa-facebook {
   background: #3b5998;
   color: white;
@@ -252,13 +292,24 @@ a.fa-instagram {
   color: white;
 }
 
-@media (max-width: 988px) {
+
+
+/* Media queries */
+
+
+
+@media (max-width: 994px) {
   #divSubDestaque {
     height: 284px;
   }
 
   div.contato {
     height: 284px;
+  }
+
+  div.contatobox {
+    height: 230px;
+    width: 100%;
   }
 
   div.imgdestaque {
@@ -283,7 +334,7 @@ a.fa-instagram {
   }
 }
 
-@media (max-width: 968px) {
+@media (max-width: 974px) {
   span.descricaodestaque {
     font-size: 15px;
   }
@@ -321,17 +372,25 @@ a.fa-instagram {
     max-height: 264px;
     width: 250px;
   }
-}
-
-@media (max-width: 920px) {
-  div.contato {
-    width: 230px;
+  div.contatobox {
+    height: 205px;
+    width: 100%;
+  }
+  div.contatobox > #description {
+    display: none;
   }
 }
 
-@media (max-width: 899px) {
+@media (max-width: 914px) {
   div.contato {
-    width: 205px;
+    width: 220px;
+  }
+  div.contatobox > img {
+    width: 100%;
+    margin-left: 2px;
+  }
+  div.contatobox > #mailcontato {
+    font-size: 11px;
   }
 }
 
@@ -341,7 +400,7 @@ a.fa-instagram {
   }
 }
 
-@media (max-width: 874px) {
+@media (max-width: 885px) {
   div.imgdestaque {
     width: 260px;
   }
@@ -381,7 +440,9 @@ a.fa-instagram {
   }
 }
 
-@media (max-width: 825px) {
+
+
+@media (max-width: 834px) {
   div.imgdestaque {
     width: 220px;
   }
@@ -409,36 +470,91 @@ a.fa-instagram {
   #divSubDestaque {
     height: 185px;
   }  
-  
+
+  a.fa-envelope {
+    display: none;
+  }
+
   div.contato {
     height: 185px;
   }
 
-  div.contato > a > img {
+  div.contatobox {
     height: 185px;
   }
 }
 
-@media (max-width: 784px) {
+
+@media (max-width: 797px) {
+  div.contato {
+    width: 190px;
+  }
+
+  div.contatobox > #mailcontato {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 764px) {
+  div.contato {
+    width: 160px;
+  }
+
+  div.contatobox > #encomendas, #duvidas, #sugestoes {
+    font-size: 14px;
+  }
+
+  div.contatobox > #mailcontato {
+    font-size: 8px;
+  }
+
+  a.fa-facebook {
+    display: none;
+  }
+}
+
+@media (max-width: 735px) {
+  div.contato {
+    width: 0px;
+  }
+  div.contatobox {
+    display: none;
+  }
+} 
+
+
+@media (max-width: 655px) {
+  #divDestaque { 
+    display: none;
+  }
+
+  #divSubDestaque { 
+    display: table;
+  }
+
+  div.contato {
+    display: initial;
+    width: 196px;
+    margin-top: 5px;
+    height: 265px;
+  }
+
+
+  div.contatobox {
+    display: inline;
+  }
+
   .socialLinks {
     position: relative;
     top: 13px;
-    right: 3px;    
+    right: 3px;
+    margin-left: 10px;    
   }
-
-  a.fa {
-    display: block;
-    width: 45px;
-    font-size: 45px;
-    margin-right: auto;
+  a.fa-facebook {
+    display: inline-block;
   }
-
-  div.contato > a > img {
-    display: none;
-  }
-  
-  div.contato {
-    width: 0px;
+  a.fa-envelope {
+    display: inline-block;
   }
 }
 
@@ -466,36 +582,6 @@ a.fa-instagram {
   }
 }
 
-@media (max-width: 653px) {
-
-  .socialLinks {
-    top: 35px;
-  }
-
-  a.fa {
-    font-size: 20px;
-    width: 20px;
-  }
-
-}
-
-@media (max-width: 628px) {
-  .socialLinks {
-    top: 35px;
-    right: 0px;
-  }
-
-  a.fa {
-    font-size: 12px;
-    width: 12px;
-  }
-}
-
-@media (max-width: 623px) {
-  div.contato {
-    display: none;
-  }
-}
 @media (max-width: 603px) {
   .imgartes {
     height: 199px;
@@ -555,6 +641,13 @@ a.fa-instagram {
   }
 }
 
+@media (max-width: 441px) {
+  .central > img {
+    max-width: 210px;
+    max-height: 40px;
+  }
+}
+
 @media (max-width: 449px) {
   .central > img {
     max-width: 210px;
@@ -574,29 +667,6 @@ a.fa-instagram {
   #divDestaque { 
     display: none;
   }
-
-  div.contato {
-    display: initial;
-    width: 196px;
-    margin-left: 85px;
-    margin-top: 5px;
-    height: 265px;
-  }
-
-  div.contato > a > img {
-    display: initial;
-    height: 205px;
-  }  
-
-  .socialLinks {
-    top: 0px;
-  }  
-
-  a.fa {
-    display: inline-block;
-    font-size: 20px;
-    width: 20px;
-  }  
 
   .imgartes {
     height: 199px;
